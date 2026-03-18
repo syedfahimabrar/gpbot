@@ -1,0 +1,18 @@
+{
+  "intents": [
+    {"tag": "balance_check", "description": "Checking prepaid/postpaid balance"},
+    {"tag": "recharge", "description": "How to recharge or top-up balance"},
+    {"tag": "data_package", "description": "Internet/data package info and activation"},
+    {"tag": "call_rate", "description": "Call rate inquiries"},
+    {"tag": "sms_package", "description": "SMS bundle/package info"},
+    {"tag": "network_issue", "description": "Network coverage and signal problems"},
+    {"tag": "sim_replace", "description": "SIM replacement, upgrade, 4G swap"},
+    {"tag": "myGP_app", "description": "MyGP app usage and troubleshooting"},
+    {"tag": "bill_payment", "description": "Postpaid bill payment methods"},
+    {"tag": "roaming", "description": "International roaming services"},
+    {"tag": "account_info", "description": "Account details, own number check"},
+    {"tag": "customer_support", "description": "Contact info, complaint filing"},
+    {"tag": "offer_promotion", "description": "Current offers and promotions"},
+    {"tag": "number_portability", "description": "MNP - switching to/from Grameenphone"}
+  ]
+}

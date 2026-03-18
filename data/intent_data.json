@@ -1,0 +1,7682 @@
+[
+  {
+    "text": "How can I check my remaining balance?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "ki kore balance dekhbo?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "balance koto?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "What is my current balance?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "Show me my account balance",
+    "intent": "balance_check"
+  },
+  {
+    "text": "amar balance koto ache?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "How to check balance in Grameenphone?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "GP balance check code ki?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "main balance check",
+    "intent": "balance_check"
+  },
+  {
+    "text": "amar taka koto ache",
+    "intent": "balance_check"
+  },
+  {
+    "text": "balance check korar upay ki?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "prepaid balance check",
+    "intent": "balance_check"
+  },
+  {
+    "text": "postpaid balance dekhbo",
+    "intent": "balance_check"
+  },
+  {
+    "text": "How much balance do I have?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "Can you tell me my balance?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "data balance check",
+    "intent": "balance_check"
+  },
+  {
+    "text": "internet balance koto?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "MB koto ache?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "minute balance dekhbo",
+    "intent": "balance_check"
+  },
+  {
+    "text": "SMS balance check korbo",
+    "intent": "balance_check"
+  },
+  {
+    "text": "bonus balance check",
+    "intent": "balance_check"
+  },
+  {
+    "text": "amar internet er balance koto?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "remaining data check",
+    "intent": "balance_check"
+  },
+  {
+    "text": "how many minutes do i have left?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "check remaining MB",
+    "intent": "balance_check"
+  },
+  {
+    "text": "what is the code to check balance?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "dial code for balance check",
+    "intent": "balance_check"
+  },
+  {
+    "text": "balance dekhte ki dial korbo?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "koto taka ache amar account e?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "net er balance ki kore dekhbo?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "my remaining internet data",
+    "intent": "balance_check"
+  },
+  {
+    "text": "show my GP balance",
+    "intent": "balance_check"
+  },
+  {
+    "text": "minute koto baki ache?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "SMS koto ache?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "I want to check how much data I have",
+    "intent": "balance_check"
+  },
+  {
+    "text": "How do I recharge my GP number?",
+    "intent": "recharge"
+  },
+  {
+    "text": "ki kore recharge korbo?",
+    "intent": "recharge"
+  },
+  {
+    "text": "recharge korar upay",
+    "intent": "recharge"
+  },
+  {
+    "text": "I want to top up my number",
+    "intent": "recharge"
+  },
+  {
+    "text": "How to add balance?",
+    "intent": "recharge"
+  },
+  {
+    "text": "taka load korbo ki kore?",
+    "intent": "recharge"
+  },
+  {
+    "text": "bKash diye recharge korbo",
+    "intent": "recharge"
+  },
+  {
+    "text": "Nagad diye ki kore recharge korbo?",
+    "intent": "recharge"
+  },
+  {
+    "text": "flexiload korbo ki kore?",
+    "intent": "recharge"
+  },
+  {
+    "text": "online recharge",
+    "intent": "recharge"
+  },
+  {
+    "text": "recharge minimum koto?",
+    "intent": "recharge"
+  },
+  {
+    "text": "minimum recharge amount ki?",
+    "intent": "recharge"
+  },
+  {
+    "text": "mobile recharge kora jabe ki?",
+    "intent": "recharge"
+  },
+  {
+    "text": "How to recharge using mobile banking?",
+    "intent": "recharge"
+  },
+  {
+    "text": "Can I recharge from bKash?",
+    "intent": "recharge"
+  },
+  {
+    "text": "How to top up Grameenphone online?",
+    "intent": "recharge"
+  },
+  {
+    "text": "amar number e taka pathabo",
+    "intent": "recharge"
+  },
+  {
+    "text": "recharge card kothay pabo?",
+    "intent": "recharge"
+  },
+  {
+    "text": "scratch card diye recharge",
+    "intent": "recharge"
+  },
+  {
+    "text": "balance transfer korbo ki kore?",
+    "intent": "recharge"
+  },
+  {
+    "text": "taka transfer korbo onno number e",
+    "intent": "recharge"
+  },
+  {
+    "text": "How to transfer balance to another number?",
+    "intent": "recharge"
+  },
+  {
+    "text": "send balance to friend",
+    "intent": "recharge"
+  },
+  {
+    "text": "Rocket diye recharge",
+    "intent": "recharge"
+  },
+  {
+    "text": "how much minimum recharge?",
+    "intent": "recharge"
+  },
+  {
+    "text": "recharge ar upay ki ki?",
+    "intent": "recharge"
+  },
+  {
+    "text": "I need to load balance",
+    "intent": "recharge"
+  },
+  {
+    "text": "quick recharge option",
+    "intent": "recharge"
+  },
+  {
+    "text": "easy recharge kora jabe?",
+    "intent": "recharge"
+  },
+  {
+    "text": "top up my grameenphone",
+    "intent": "recharge"
+  },
+  {
+    "text": "What internet packages are available?",
+    "intent": "data_package"
+  },
+  {
+    "text": "ki ki internet package ache?",
+    "intent": "data_package"
+  },
+  {
+    "text": "net er package dekhao",
+    "intent": "data_package"
+  },
+  {
+    "text": "data pack kinte chai",
+    "intent": "data_package"
+  },
+  {
+    "text": "How to buy data pack?",
+    "intent": "data_package"
+  },
+  {
+    "text": "internet offer ki ki ache?",
+    "intent": "data_package"
+  },
+  {
+    "text": "monthly data package",
+    "intent": "data_package"
+  },
+  {
+    "text": "weekly internet pack",
+    "intent": "data_package"
+  },
+  {
+    "text": "daily internet package",
+    "intent": "data_package"
+  },
+  {
+    "text": "cheap data package",
+    "intent": "data_package"
+  },
+  {
+    "text": "sasta internet pack chai",
+    "intent": "data_package"
+  },
+  {
+    "text": "MB kinte chai",
+    "intent": "data_package"
+  },
+  {
+    "text": "internet package activate korbo",
+    "intent": "data_package"
+  },
+  {
+    "text": "data pack on korbo ki kore?",
+    "intent": "data_package"
+  },
+  {
+    "text": "4G data package ki ki ache?",
+    "intent": "data_package"
+  },
+  {
+    "text": "night pack activate korbo",
+    "intent": "data_package"
+  },
+  {
+    "text": "rater internet pack",
+    "intent": "data_package"
+  },
+  {
+    "text": "1GB koto taka?",
+    "intent": "data_package"
+  },
+  {
+    "text": "10GB package er dam koto?",
+    "intent": "data_package"
+  },
+  {
+    "text": "unlimited internet package ache?",
+    "intent": "data_package"
+  },
+  {
+    "text": "auto renewal off korbo",
+    "intent": "data_package"
+  },
+  {
+    "text": "internet pack auto renew bondho korbo",
+    "intent": "data_package"
+  },
+  {
+    "text": "How to stop auto renewal of data pack?",
+    "intent": "data_package"
+  },
+  {
+    "text": "best internet offer",
+    "intent": "data_package"
+  },
+  {
+    "text": "What is the cheapest data pack?",
+    "intent": "data_package"
+  },
+  {
+    "text": "GP internet price list",
+    "intent": "data_package"
+  },
+  {
+    "text": "ami ki kore data package kinbo?",
+    "intent": "data_package"
+  },
+  {
+    "text": "large data pack for one month",
+    "intent": "data_package"
+  },
+  {
+    "text": "internet package er list dao",
+    "intent": "data_package"
+  },
+  {
+    "text": "show me all data plans",
+    "intent": "data_package"
+  },
+  {
+    "text": "how much is 5GB pack?",
+    "intent": "data_package"
+  },
+  {
+    "text": "net pack koto taka?",
+    "intent": "data_package"
+  },
+  {
+    "text": "data package dial code ki?",
+    "intent": "data_package"
+  },
+  {
+    "text": "How to activate internet on GP?",
+    "intent": "data_package"
+  },
+  {
+    "text": "internet kinbo",
+    "intent": "data_package"
+  },
+  {
+    "text": "What is the call rate?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "call rate koto?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "per minute rate ki?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "GP to GP call rate koto?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "off-net call rate koto?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "How much does a call cost?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "calling charge koto?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "minute rate ki?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "FnF number call rate",
+    "intent": "call_rate"
+  },
+  {
+    "text": "FnF rate koto?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "How to get cheaper call rates?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "sasta call rate chai",
+    "intent": "call_rate"
+  },
+  {
+    "text": "call rate kom korbo ki kore?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "GP to Robi call rate",
+    "intent": "call_rate"
+  },
+  {
+    "text": "GP to Banglalink rate koto?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "GP to Teletalk call charge",
+    "intent": "call_rate"
+  },
+  {
+    "text": "onnet call rate",
+    "intent": "call_rate"
+  },
+  {
+    "text": "minute bundle offer",
+    "intent": "call_rate"
+  },
+  {
+    "text": "minute pack kinte chai",
+    "intent": "call_rate"
+  },
+  {
+    "text": "How to buy minute pack?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "voice package available?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "calling package koto taka?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "call er charge dekhao",
+    "intent": "call_rate"
+  },
+  {
+    "text": "tariff plan ki?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "my current call rate",
+    "intent": "call_rate"
+  },
+  {
+    "text": "ki kore call rate check korbo?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "call rate reduce korte chai",
+    "intent": "call_rate"
+  },
+  {
+    "text": "cheapest minute bundle",
+    "intent": "call_rate"
+  },
+  {
+    "text": "100 minute pack koto?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "FnF set korbo ki kore?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "What SMS packages are available?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS pack kinte chai",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS bundle offer ki ki ache?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "How to buy SMS pack?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS rate koto?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "per SMS charge ki?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS package activate korbo",
+    "intent": "sms_package"
+  },
+  {
+    "text": "cheap SMS pack",
+    "intent": "sms_package"
+  },
+  {
+    "text": "sasta SMS offer",
+    "intent": "sms_package"
+  },
+  {
+    "text": "100 SMS pack koto taka?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "monthly SMS bundle",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS pack dial code",
+    "intent": "sms_package"
+  },
+  {
+    "text": "ki kore SMS pack kinbo?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "GP SMS offer",
+    "intent": "sms_package"
+  },
+  {
+    "text": "text message package",
+    "intent": "sms_package"
+  },
+  {
+    "text": "I want to buy SMS bundle",
+    "intent": "sms_package"
+  },
+  {
+    "text": "1000 SMS pack price",
+    "intent": "sms_package"
+  },
+  {
+    "text": "weekly SMS offer ache?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS er rate koto without pack?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS pack list dekhao",
+    "intent": "sms_package"
+  },
+  {
+    "text": "best SMS offer ki?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "daily SMS pack ache?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "How much is SMS without pack?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "Show me SMS bundles",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS package options",
+    "intent": "sms_package"
+  },
+  {
+    "text": "I am having network problems",
+    "intent": "network_issue"
+  },
+  {
+    "text": "network problem hocche",
+    "intent": "network_issue"
+  },
+  {
+    "text": "signal pacci na",
+    "intent": "network_issue"
+  },
+  {
+    "text": "No network coverage",
+    "intent": "network_issue"
+  },
+  {
+    "text": "call drop hocche",
+    "intent": "network_issue"
+  },
+  {
+    "text": "internet slow",
+    "intent": "network_issue"
+  },
+  {
+    "text": "net er speed kom",
+    "intent": "network_issue"
+  },
+  {
+    "text": "Why is my internet so slow?",
+    "intent": "network_issue"
+  },
+  {
+    "text": "network nai",
+    "intent": "network_issue"
+  },
+  {
+    "text": "signal weak",
+    "intent": "network_issue"
+  },
+  {
+    "text": "call connect hocche na",
+    "intent": "network_issue"
+  },
+  {
+    "text": "internet kaj korche na",
+    "intent": "network_issue"
+  },
+  {
+    "text": "data not working",
+    "intent": "network_issue"
+  },
+  {
+    "text": "4G pacci na",
+    "intent": "network_issue"
+  },
+  {
+    "text": "network ta kharap",
+    "intent": "network_issue"
+  },
+  {
+    "text": "call quality kharap",
+    "intent": "network_issue"
+  },
+  {
+    "text": "Is there a network outage?",
+    "intent": "network_issue"
+  },
+  {
+    "text": "network outage ki ache?",
+    "intent": "network_issue"
+  },
+  {
+    "text": "tower er problem hocche",
+    "intent": "network_issue"
+  },
+  {
+    "text": "cannot make calls",
+    "intent": "network_issue"
+  },
+  {
+    "text": "phone e signal nai",
+    "intent": "network_issue"
+  },
+  {
+    "text": "How to improve signal?",
+    "intent": "network_issue"
+  },
+  {
+    "text": "signal boost korbo ki kore?",
+    "intent": "network_issue"
+  },
+  {
+    "text": "internet connect hoy na",
+    "intent": "network_issue"
+  },
+  {
+    "text": "network restore kobe hobe?",
+    "intent": "network_issue"
+  },
+  {
+    "text": "My mobile data is not working",
+    "intent": "network_issue"
+  },
+  {
+    "text": "GP network down?",
+    "intent": "network_issue"
+  },
+  {
+    "text": "why am I not getting 4G?",
+    "intent": "network_issue"
+  },
+  {
+    "text": "net speed keno kom?",
+    "intent": "network_issue"
+  },
+  {
+    "text": "coverage area koi koi?",
+    "intent": "network_issue"
+  },
+  {
+    "text": "How to replace my SIM?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM replace korbo ki kore?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "amar SIM hariye geche",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM nosto hoye geche",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "I lost my SIM card",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "damaged SIM replacement",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "4G SIM upgrade korbo",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "How to upgrade to 4G SIM?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM swap korte chai",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "new SIM lagbe",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM replacement er charge koto?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM replace koto taka?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "eSIM nite chai",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "How to get eSIM?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "eSIM convert korbo",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "Where to replace SIM?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM replace korte ki lagbe?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "biometric SIM replace",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "NID diye SIM replace",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM ta kaj korche na",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM card damaged",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "need a new SIM same number",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "4G te upgrade korbo ki kore?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "can I get a replacement SIM?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM change koto time lage?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "How to use MyGP app?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP app ki?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP download korbo ki kore?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP app ta kaj korche na",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP app not working",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "How to download MyGP?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP app diye ki ki korte pari?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP login problem",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP app e OTP paicchi na",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP app update korbo",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP app install korbo ki kore?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP te offer dekhbo",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP app crash hocche",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "How to set up MyGP?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP features ki ki?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP app theke recharge korbo",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "can I buy pack from MyGP?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP error showing",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP app slow lagche",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "How to fix MyGP app issues?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP registration korbo",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP app available for iPhone?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP app e balance dekhbo",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP app diye bill pay korbo",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP app clear cache",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "How to pay my postpaid bill?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill pay korbo ki kore?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "postpaid bill payment",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "amar bill koto?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill check korbo",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "How much is my bill?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill er amount dekhbo",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bKash diye bill pay korbo",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "online bill payment",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill er due date kobe?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill pay na korle ki hobe?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "What happens if bill is unpaid?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "late bill payment",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill pay korar upay ki ki?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "Nagad diye bill pay",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bank theke bill pay korbo",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "e-bill activate korbo",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "postpaid bill history",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "unbilled amount koto?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill pay korte GP center jete hobe?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "I need to pay my phone bill",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "show my current bill",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill er last date kobe?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "postpaid er bill koto elo?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "how to check postpaid bill?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "How to activate roaming?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming on korbo ki kore?",
+    "intent": "roaming"
+  },
+  {
+    "text": "international roaming activate",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming charge koto?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming er rate ki?",
+    "intent": "roaming"
+  },
+  {
+    "text": "bidesh e gele roaming ki kore korbo?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming data pack ache?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming activate korte koto taka lage?",
+    "intent": "roaming"
+  },
+  {
+    "text": "India te roaming charge koto?",
+    "intent": "roaming"
+  },
+  {
+    "text": "Malaysia te GP use korbo",
+    "intent": "roaming"
+  },
+  {
+    "text": "abroad e giye internet use korbo",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming bundle pack",
+    "intent": "roaming"
+  },
+  {
+    "text": "How to use GP abroad?",
+    "intent": "roaming"
+  },
+  {
+    "text": "international call rate roaming",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming SMS charge",
+    "intent": "roaming"
+  },
+  {
+    "text": "bidesh e incoming call charge",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming activate korte ki korte hobe?",
+    "intent": "roaming"
+  },
+  {
+    "text": "can I use my GP SIM in Dubai?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming pack kinte chai",
+    "intent": "roaming"
+  },
+  {
+    "text": "data roaming on korbo ki kore phone e?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming er jonne minimum balance koto?",
+    "intent": "roaming"
+  },
+  {
+    "text": "How much balance needed for roaming?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming available countries",
+    "intent": "roaming"
+  },
+  {
+    "text": "Singapore e roaming rate ki?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming off korbo ki kore?",
+    "intent": "roaming"
+  },
+  {
+    "text": "How to check my own number?",
+    "intent": "account_info"
+  },
+  {
+    "text": "amar number ta ki?",
+    "intent": "account_info"
+  },
+  {
+    "text": "nijer number check korbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "ki kore amar GP number dekhbo?",
+    "intent": "account_info"
+  },
+  {
+    "text": "my GP number",
+    "intent": "account_info"
+  },
+  {
+    "text": "What is my phone number?",
+    "intent": "account_info"
+  },
+  {
+    "text": "amar account details dekhbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "account information",
+    "intent": "account_info"
+  },
+  {
+    "text": "package change korbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "tariff plan change korte chai",
+    "intent": "account_info"
+  },
+  {
+    "text": "How to change my GP plan?",
+    "intent": "account_info"
+  },
+  {
+    "text": "amar current package ki?",
+    "intent": "account_info"
+  },
+  {
+    "text": "ki plan e achi ami?",
+    "intent": "account_info"
+  },
+  {
+    "text": "show my account details",
+    "intent": "account_info"
+  },
+  {
+    "text": "GP account info dekhbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "my tariff plan ki?",
+    "intent": "account_info"
+  },
+  {
+    "text": "package migrate korbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "How to know my own number?",
+    "intent": "account_info"
+  },
+  {
+    "text": "dial code for own number",
+    "intent": "account_info"
+  },
+  {
+    "text": "own number dekhte ki code?",
+    "intent": "account_info"
+  },
+  {
+    "text": "subscription details dekhbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "my plan details",
+    "intent": "account_info"
+  },
+  {
+    "text": "active services ki ki ache?",
+    "intent": "account_info"
+  },
+  {
+    "text": "account summary dekhao",
+    "intent": "account_info"
+  },
+  {
+    "text": "ki ki service subscribe kora ache?",
+    "intent": "account_info"
+  },
+  {
+    "text": "How to contact customer service?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "helpline number ki?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "customer care e call korbo",
+    "intent": "customer_support"
+  },
+  {
+    "text": "121 e call korbo",
+    "intent": "customer_support"
+  },
+  {
+    "text": "GP helpline",
+    "intent": "customer_support"
+  },
+  {
+    "text": "complaint korbo ki kore?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "How to file a complaint?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "customer support contact",
+    "intent": "customer_support"
+  },
+  {
+    "text": "GP center kothay?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "nearest GP center",
+    "intent": "customer_support"
+  },
+  {
+    "text": "Where is the nearest GP center?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "email address ki GP er?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "live chat support ache?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "complaint track korbo",
+    "intent": "customer_support"
+  },
+  {
+    "text": "complaint er status dekhbo",
+    "intent": "customer_support"
+  },
+  {
+    "text": "I want to talk to customer care",
+    "intent": "customer_support"
+  },
+  {
+    "text": "GP office location",
+    "intent": "customer_support"
+  },
+  {
+    "text": "customer care number ki?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "hotline number",
+    "intent": "customer_support"
+  },
+  {
+    "text": "GP Facebook page e message korbo",
+    "intent": "customer_support"
+  },
+  {
+    "text": "support team er sathe kotha bolbo",
+    "intent": "customer_support"
+  },
+  {
+    "text": "complaint reference number diye track korbo",
+    "intent": "customer_support"
+  },
+  {
+    "text": "GP service center ar address ki?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "I have a complaint about GP service",
+    "intent": "customer_support"
+  },
+  {
+    "text": "how to reach GP support?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "What are the current offers?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "offer ki ki ache?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "GP te ki ki offer cholche?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "special offer dekhao",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "current promotion ki?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "any discount offers?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "combo pack offer",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "combo pack ki ki ache?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "How to activate an offer?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "offer activate korbo ki kore?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "best GP offer ki?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "promotional package",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "cashback offer ache?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "GP star offer",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "daily combo pack",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "weekly combo offer",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "monthly combo pack koto taka?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "bundle offer dekhao",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "new offer ache ki?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "exciting offers on GP",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "amar jonne ki offer ache?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "personalized offer dekhbo",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "app exclusive offer",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "recharge offer ki ache?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "show me all current offers",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "How to port my number to GP?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "MNP korbo ki kore?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "number portability ki?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "GP te switch korte chai",
+    "intent": "number_portability"
+  },
+  {
+    "text": "Robi theke GP te ashbo",
+    "intent": "number_portability"
+  },
+  {
+    "text": "Banglalink theke GP te number niye ashbo",
+    "intent": "number_portability"
+  },
+  {
+    "text": "How to switch to Grameenphone?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "number change na kore GP te ashbo",
+    "intent": "number_portability"
+  },
+  {
+    "text": "port out from GP",
+    "intent": "number_portability"
+  },
+  {
+    "text": "GP theke onno operator e jabo",
+    "intent": "number_portability"
+  },
+  {
+    "text": "How to port out from Grameenphone?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "MNP process ki?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "MNP korte koto din lage?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "number portability charge ache?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "MNP er jonne ki ki lagbe?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "porting request korbo",
+    "intent": "number_portability"
+  },
+  {
+    "text": "can I keep my number and switch to GP?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "operator switch korbo",
+    "intent": "number_portability"
+  },
+  {
+    "text": "Teletalk theke GP te ashbo",
+    "intent": "number_portability"
+  },
+  {
+    "text": "MNP eligibility ki?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "number port korte koto somoy lage?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "porting fee koto?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "same number niye GP te jete parbo?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "How does number portability work?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "MNP korle balance thakbe?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "bal check korbo",
+    "intent": "balance_check"
+  },
+  {
+    "text": "amar GP balance",
+    "intent": "balance_check"
+  },
+  {
+    "text": "taka dekhan",
+    "intent": "balance_check"
+  },
+  {
+    "text": "balane check",
+    "intent": "balance_check"
+  },
+  {
+    "text": "how to see balance?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "blance check code",
+    "intent": "balance_check"
+  },
+  {
+    "text": "check my gp balance please",
+    "intent": "balance_check"
+  },
+  {
+    "text": "gp te taka koto ache",
+    "intent": "balance_check"
+  },
+  {
+    "text": "balance ta ektu dekhben?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "plz check balance",
+    "intent": "balance_check"
+  },
+  {
+    "text": "bro balance koto amar",
+    "intent": "balance_check"
+  },
+  {
+    "text": "amar prepaid balance koto?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "tell me my remaining balance",
+    "intent": "balance_check"
+  },
+  {
+    "text": "how do i know my balance?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "balance inquiry",
+    "intent": "balance_check"
+  },
+  {
+    "text": "taka check korbo ki kore",
+    "intent": "balance_check"
+  },
+  {
+    "text": "amar phone e koto taka ache?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "balance check er number ki?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "GP prepaid balance check kori ki kore?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "balance check korar code ta ki?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "ami ki kore amar balance dekhbo?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "remaining balance ta bolen",
+    "intent": "balance_check"
+  },
+  {
+    "text": "net balance check",
+    "intent": "balance_check"
+  },
+  {
+    "text": "internet er baki koto?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "data balance koto ache amar?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "minute balance check korte chai",
+    "intent": "balance_check"
+  },
+  {
+    "text": "koto minute baki?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "sms balance dekhte chai",
+    "intent": "balance_check"
+  },
+  {
+    "text": "amar koto SMS baki ache?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "bonus balance ta ki kore dekhbo?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "emergency balance ache ki na?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "taka er balance ta ki?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "main account balance dekhao",
+    "intent": "balance_check"
+  },
+  {
+    "text": "account e taka ache koto?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "star diye balance check",
+    "intent": "balance_check"
+  },
+  {
+    "text": "*566# diye ki hoy?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "balance check USSD code",
+    "intent": "balance_check"
+  },
+  {
+    "text": "GP USSD balance",
+    "intent": "balance_check"
+  },
+  {
+    "text": "how to check gp postpaid balance",
+    "intent": "balance_check"
+  },
+  {
+    "text": "postpaid er baki bill koto?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "current remaining balance plz",
+    "intent": "balance_check"
+  },
+  {
+    "text": "ektu balance ta check kore den",
+    "intent": "balance_check"
+  },
+  {
+    "text": "amar account er taka koto baki?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "shob balance dekhte chai",
+    "intent": "balance_check"
+  },
+  {
+    "text": "total balance koto?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "internet minute SMS shob balance",
+    "intent": "balance_check"
+  },
+  {
+    "text": "all balance check at once",
+    "intent": "balance_check"
+  },
+  {
+    "text": "combined balance check",
+    "intent": "balance_check"
+  },
+  {
+    "text": "ki kore shob balance ekbare dekhbo?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "balance er jonno ki dial korbo?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "taka check korar dial number",
+    "intent": "balance_check"
+  },
+  {
+    "text": "amar baki koto ache?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "baki taka koto?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "phone er balance koto?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "sim er balance check",
+    "intent": "balance_check"
+  },
+  {
+    "text": "amar sim e koto taka?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "ekhon amar balance koto hobe?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "just wanna check balance",
+    "intent": "balance_check"
+  },
+  {
+    "text": "i want to know my balance",
+    "intent": "balance_check"
+  },
+  {
+    "text": "how much credit do I have?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "credit check korbo",
+    "intent": "balance_check"
+  },
+  {
+    "text": "whats my balance on gp",
+    "intent": "balance_check"
+  },
+  {
+    "text": "gp account balance koto?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "my current data remaining",
+    "intent": "balance_check"
+  },
+  {
+    "text": "remaining internet koto ache?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "koto MB baki ache amar?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "net er MB koto?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "data koto use hoise?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "how much data used?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "amar data consumption koto?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "balance er update dekhao",
+    "intent": "balance_check"
+  },
+  {
+    "text": "updated balance chai",
+    "intent": "balance_check"
+  },
+  {
+    "text": "realtime balance check",
+    "intent": "balance_check"
+  },
+  {
+    "text": "quick balance check",
+    "intent": "balance_check"
+  },
+  {
+    "text": "fast balance check code",
+    "intent": "balance_check"
+  },
+  {
+    "text": "balance jante chai",
+    "intent": "balance_check"
+  },
+  {
+    "text": "taka jante chai",
+    "intent": "balance_check"
+  },
+  {
+    "text": "balance dekhte parbo ki?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "ami ki balance check korte parbo?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "balance check ki free?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "balance check e ki charge kaTe?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "free te balance check",
+    "intent": "balance_check"
+  },
+  {
+    "text": "charge chara balance dekhbo",
+    "intent": "balance_check"
+  },
+  {
+    "text": "balance check message",
+    "intent": "balance_check"
+  },
+  {
+    "text": "SMS diye balance check",
+    "intent": "balance_check"
+  },
+  {
+    "text": "text kore balance check",
+    "intent": "balance_check"
+  },
+  {
+    "text": "MyGP te balance dekhbo",
+    "intent": "balance_check"
+  },
+  {
+    "text": "app theke balance check",
+    "intent": "balance_check"
+  },
+  {
+    "text": "balance check korar shob upay",
+    "intent": "balance_check"
+  },
+  {
+    "text": "sob gulo balance dekhte parbo ekbare?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "amar GP number er balance",
+    "intent": "balance_check"
+  },
+  {
+    "text": "ei number er balance koto?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "specific number er balance check",
+    "intent": "balance_check"
+  },
+  {
+    "text": "onno number er balance dekhbo",
+    "intent": "balance_check"
+  },
+  {
+    "text": "balance check korte problem hocche",
+    "intent": "balance_check"
+  },
+  {
+    "text": "balance check hocche na keno?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "balance ta thik dekhacche ki?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "balance show hocche na",
+    "intent": "balance_check"
+  },
+  {
+    "text": "balance check code kaj korche na",
+    "intent": "balance_check"
+  },
+  {
+    "text": "amar balance kemne check korbo bolen to",
+    "intent": "balance_check"
+  },
+  {
+    "text": "bhai balance ta ek tu check koira den",
+    "intent": "balance_check"
+  },
+  {
+    "text": "vai amar taka koto ache?",
+    "intent": "balance_check"
+  },
+  {
+    "text": "balance koto ase",
+    "intent": "balance_check"
+  },
+  {
+    "text": "tka kto ase amar",
+    "intent": "balance_check"
+  },
+  {
+    "text": "blnce chk",
+    "intent": "balance_check"
+  },
+  {
+    "text": "bal chk code ki",
+    "intent": "balance_check"
+  },
+  {
+    "text": "tk koto",
+    "intent": "balance_check"
+  },
+  {
+    "text": "net er tk koto baki",
+    "intent": "balance_check"
+  },
+  {
+    "text": "amar bal dekhao",
+    "intent": "balance_check"
+  },
+  {
+    "text": "taka tulbo ki kore?",
+    "intent": "recharge"
+  },
+  {
+    "text": "flexi load chai",
+    "intent": "recharge"
+  },
+  {
+    "text": "how to do flexi load?",
+    "intent": "recharge"
+  },
+  {
+    "text": "recharge dibo ki kore?",
+    "intent": "recharge"
+  },
+  {
+    "text": "mobile e taka tulte chai",
+    "intent": "recharge"
+  },
+  {
+    "text": "taka dhukanbo ki kore?",
+    "intent": "recharge"
+  },
+  {
+    "text": "GP recharge process ki?",
+    "intent": "recharge"
+  },
+  {
+    "text": "amar number e recharge korte parben?",
+    "intent": "recharge"
+  },
+  {
+    "text": "online theke recharge korbo",
+    "intent": "recharge"
+  },
+  {
+    "text": "app diye recharge kori ki kore?",
+    "intent": "recharge"
+  },
+  {
+    "text": "MyGP app theke recharge",
+    "intent": "recharge"
+  },
+  {
+    "text": "bKash theke GP recharge process",
+    "intent": "recharge"
+  },
+  {
+    "text": "Nagad recharge system ki?",
+    "intent": "recharge"
+  },
+  {
+    "text": "Rocket theke recharge korbo ki kore?",
+    "intent": "recharge"
+  },
+  {
+    "text": "mobile banking recharge",
+    "intent": "recharge"
+  },
+  {
+    "text": "bank card diye recharge",
+    "intent": "recharge"
+  },
+  {
+    "text": "visa card diye recharge korbo",
+    "intent": "recharge"
+  },
+  {
+    "text": "mastercard diye GP recharge",
+    "intent": "recharge"
+  },
+  {
+    "text": "credit card recharge possible?",
+    "intent": "recharge"
+  },
+  {
+    "text": "debit card diye recharge",
+    "intent": "recharge"
+  },
+  {
+    "text": "ATM theke recharge hoy?",
+    "intent": "recharge"
+  },
+  {
+    "text": "auto recharge on korbo",
+    "intent": "recharge"
+  },
+  {
+    "text": "auto recharge ki?",
+    "intent": "recharge"
+  },
+  {
+    "text": "automatic recharge set korbo",
+    "intent": "recharge"
+  },
+  {
+    "text": "recharge e bonus pabo ki?",
+    "intent": "recharge"
+  },
+  {
+    "text": "recharge offer ki ache ekhon?",
+    "intent": "recharge"
+  },
+  {
+    "text": "recharge korle ki bonus dey?",
+    "intent": "recharge"
+  },
+  {
+    "text": "50 taka recharge korbo",
+    "intent": "recharge"
+  },
+  {
+    "text": "100 taka recharge",
+    "intent": "recharge"
+  },
+  {
+    "text": "200 taka recharge dibo",
+    "intent": "recharge"
+  },
+  {
+    "text": "500 taka recharge korte chai",
+    "intent": "recharge"
+  },
+  {
+    "text": "20 taka recharge minimum",
+    "intent": "recharge"
+  },
+  {
+    "text": "10 taka recharge hoy?",
+    "intent": "recharge"
+  },
+  {
+    "text": "recharge denomination ki ki?",
+    "intent": "recharge"
+  },
+  {
+    "text": "koto taka recharge kora jay?",
+    "intent": "recharge"
+  },
+  {
+    "text": "maximum recharge limit koto?",
+    "intent": "recharge"
+  },
+  {
+    "text": "recharge failed hoye geche",
+    "intent": "recharge"
+  },
+  {
+    "text": "taka kete niche but recharge hoy nai",
+    "intent": "recharge"
+  },
+  {
+    "text": "recharge complete hoy nai",
+    "intent": "recharge"
+  },
+  {
+    "text": "recharge er taka fera pabo?",
+    "intent": "recharge"
+  },
+  {
+    "text": "recharge refund pabo ki?",
+    "intent": "recharge"
+  },
+  {
+    "text": "wrong number e recharge hoye geche",
+    "intent": "recharge"
+  },
+  {
+    "text": "bhul number e taka chole geche",
+    "intent": "recharge"
+  },
+  {
+    "text": "onno number e recharge korbo",
+    "intent": "recharge"
+  },
+  {
+    "text": "baba er number e recharge dibo",
+    "intent": "recharge"
+  },
+  {
+    "text": "family member er number e recharge",
+    "intent": "recharge"
+  },
+  {
+    "text": "gift recharge korbo",
+    "intent": "recharge"
+  },
+  {
+    "text": "someone else ke recharge dibo",
+    "intent": "recharge"
+  },
+  {
+    "text": "friend er jonne recharge",
+    "intent": "recharge"
+  },
+  {
+    "text": "balance pathabo ki kore?",
+    "intent": "recharge"
+  },
+  {
+    "text": "balance share korbo",
+    "intent": "recharge"
+  },
+  {
+    "text": "taka share korar code ki?",
+    "intent": "recharge"
+  },
+  {
+    "text": "balance transfer code ki?",
+    "intent": "recharge"
+  },
+  {
+    "text": "emergency balance nibo",
+    "intent": "recharge"
+  },
+  {
+    "text": "emergency balance ki kore nibo?",
+    "intent": "recharge"
+  },
+  {
+    "text": "jhotpot loan ki?",
+    "intent": "recharge"
+  },
+  {
+    "text": "emergency taka nibo",
+    "intent": "recharge"
+  },
+  {
+    "text": "advance balance pabo ki?",
+    "intent": "recharge"
+  },
+  {
+    "text": "balance loan nite chai",
+    "intent": "recharge"
+  },
+  {
+    "text": "recharge korbo plz help",
+    "intent": "recharge"
+  },
+  {
+    "text": "taka load kori kemne?",
+    "intent": "recharge"
+  },
+  {
+    "text": "recharge ar system ki?",
+    "intent": "recharge"
+  },
+  {
+    "text": "how recharge works in GP?",
+    "intent": "recharge"
+  },
+  {
+    "text": "GP recharge steps",
+    "intent": "recharge"
+  },
+  {
+    "text": "step by step recharge korbo",
+    "intent": "recharge"
+  },
+  {
+    "text": "recharg korbo",
+    "intent": "recharge"
+  },
+  {
+    "text": "rechrge",
+    "intent": "recharge"
+  },
+  {
+    "text": "tka load",
+    "intent": "recharge"
+  },
+  {
+    "text": "taka tулbo",
+    "intent": "recharge"
+  },
+  {
+    "text": "rchrg kora jay kemne",
+    "intent": "recharge"
+  },
+  {
+    "text": "bkash diye taka tulbo gp te",
+    "intent": "recharge"
+  },
+  {
+    "text": "nagad theke taka dibo gp number e",
+    "intent": "recharge"
+  },
+  {
+    "text": "online recharge site ki?",
+    "intent": "recharge"
+  },
+  {
+    "text": "GP website theke recharge",
+    "intent": "recharge"
+  },
+  {
+    "text": "recharge er link den",
+    "intent": "recharge"
+  },
+  {
+    "text": "internet e recharge korbo",
+    "intent": "recharge"
+  },
+  {
+    "text": "digital recharge",
+    "intent": "recharge"
+  },
+  {
+    "text": "e-recharge",
+    "intent": "recharge"
+  },
+  {
+    "text": "electronic recharge korbo",
+    "intent": "recharge"
+  },
+  {
+    "text": "physical recharge card ache?",
+    "intent": "recharge"
+  },
+  {
+    "text": "recharge card diye ki kore recharge korbo?",
+    "intent": "recharge"
+  },
+  {
+    "text": "scratch card number diye recharge",
+    "intent": "recharge"
+  },
+  {
+    "text": "card er pin diye recharge",
+    "intent": "recharge"
+  },
+  {
+    "text": "recharge pin ta ki kore dibo?",
+    "intent": "recharge"
+  },
+  {
+    "text": "nearest recharge point kothay?",
+    "intent": "recharge"
+  },
+  {
+    "text": "dukan theke recharge korbo",
+    "intent": "recharge"
+  },
+  {
+    "text": "shop theke flexiload nibo",
+    "intent": "recharge"
+  },
+  {
+    "text": "recharge agent kothay pabo?",
+    "intent": "recharge"
+  },
+  {
+    "text": "taka dhukai kemne sim e",
+    "intent": "recharge"
+  },
+  {
+    "text": "vai recharge kore den ektu",
+    "intent": "recharge"
+  },
+  {
+    "text": "bro recharge korte parba?",
+    "intent": "recharge"
+  },
+  {
+    "text": "plz hlp me recharge",
+    "intent": "recharge"
+  },
+  {
+    "text": "rechare korbo bkash diye",
+    "intent": "recharge"
+  },
+  {
+    "text": "taka tулte parbo ki bkash thk?",
+    "intent": "recharge"
+  },
+  {
+    "text": "GP e taka add korbo ki kore?",
+    "intent": "recharge"
+  },
+  {
+    "text": "add money to GP",
+    "intent": "recharge"
+  },
+  {
+    "text": "load balance GP",
+    "intent": "recharge"
+  },
+  {
+    "text": "put money in my GP",
+    "intent": "recharge"
+  },
+  {
+    "text": "GP prepaid recharge online",
+    "intent": "recharge"
+  },
+  {
+    "text": "instant recharge GP",
+    "intent": "recharge"
+  },
+  {
+    "text": "quick recharge kori ki kore?",
+    "intent": "recharge"
+  },
+  {
+    "text": "fastest recharge method ki?",
+    "intent": "recharge"
+  },
+  {
+    "text": "recharge shortcut",
+    "intent": "recharge"
+  },
+  {
+    "text": "easy load GP",
+    "intent": "recharge"
+  },
+  {
+    "text": "simple recharge process",
+    "intent": "recharge"
+  },
+  {
+    "text": "GP postpaid recharge lage?",
+    "intent": "recharge"
+  },
+  {
+    "text": "postpaid e recharge korte hoy?",
+    "intent": "recharge"
+  },
+  {
+    "text": "recharge history dekhbo",
+    "intent": "recharge"
+  },
+  {
+    "text": "last recharge amount ki chilo?",
+    "intent": "recharge"
+  },
+  {
+    "text": "net pack lagabo",
+    "intent": "data_package"
+  },
+  {
+    "text": "internet package lagbe",
+    "intent": "data_package"
+  },
+  {
+    "text": "data plan ki ki ache GP te?",
+    "intent": "data_package"
+  },
+  {
+    "text": "GP data offer list",
+    "intent": "data_package"
+  },
+  {
+    "text": "shob internet package dekhao",
+    "intent": "data_package"
+  },
+  {
+    "text": "ami internet package kinte chai",
+    "intent": "data_package"
+  },
+  {
+    "text": "net package price list",
+    "intent": "data_package"
+  },
+  {
+    "text": "internet er dam koto?",
+    "intent": "data_package"
+  },
+  {
+    "text": "2GB pack koto?",
+    "intent": "data_package"
+  },
+  {
+    "text": "3GB package er dam ki?",
+    "intent": "data_package"
+  },
+  {
+    "text": "5GB net pack price",
+    "intent": "data_package"
+  },
+  {
+    "text": "20GB data pack ache?",
+    "intent": "data_package"
+  },
+  {
+    "text": "50GB monthly pack",
+    "intent": "data_package"
+  },
+  {
+    "text": "heavy user data pack",
+    "intent": "data_package"
+  },
+  {
+    "text": "unlimited data plan GP",
+    "intent": "data_package"
+  },
+  {
+    "text": "truly unlimited net ache?",
+    "intent": "data_package"
+  },
+  {
+    "text": "FUP chara net pack?",
+    "intent": "data_package"
+  },
+  {
+    "text": "no speed cap data pack",
+    "intent": "data_package"
+  },
+  {
+    "text": "full speed internet plan",
+    "intent": "data_package"
+  },
+  {
+    "text": "4G speed data package",
+    "intent": "data_package"
+  },
+  {
+    "text": "high speed net pack",
+    "intent": "data_package"
+  },
+  {
+    "text": "best value data pack ki?",
+    "intent": "data_package"
+  },
+  {
+    "text": "value for money internet offer",
+    "intent": "data_package"
+  },
+  {
+    "text": "sasta net",
+    "intent": "data_package"
+  },
+  {
+    "text": "cheap internet pack GP",
+    "intent": "data_package"
+  },
+  {
+    "text": "budget data package",
+    "intent": "data_package"
+  },
+  {
+    "text": "student data pack ache?",
+    "intent": "data_package"
+  },
+  {
+    "text": "student offer internet",
+    "intent": "data_package"
+  },
+  {
+    "text": "youth data package",
+    "intent": "data_package"
+  },
+  {
+    "text": "social media pack ache?",
+    "intent": "data_package"
+  },
+  {
+    "text": "Facebook pack koto?",
+    "intent": "data_package"
+  },
+  {
+    "text": "YouTube data pack",
+    "intent": "data_package"
+  },
+  {
+    "text": "video streaming pack",
+    "intent": "data_package"
+  },
+  {
+    "text": "gaming data pack",
+    "intent": "data_package"
+  },
+  {
+    "text": "Zoom pack ache?",
+    "intent": "data_package"
+  },
+  {
+    "text": "online class er jonne pack",
+    "intent": "data_package"
+  },
+  {
+    "text": "7 din er net pack",
+    "intent": "data_package"
+  },
+  {
+    "text": "15 din er internet package",
+    "intent": "data_package"
+  },
+  {
+    "text": "30 din er data plan",
+    "intent": "data_package"
+  },
+  {
+    "text": "3 din er net pack",
+    "intent": "data_package"
+  },
+  {
+    "text": "1 din er internet offer",
+    "intent": "data_package"
+  },
+  {
+    "text": "hourly data pack",
+    "intent": "data_package"
+  },
+  {
+    "text": "ghonta bhittik net pack",
+    "intent": "data_package"
+  },
+  {
+    "text": "2 ghonta internet pack",
+    "intent": "data_package"
+  },
+  {
+    "text": "6 ghonta data offer",
+    "intent": "data_package"
+  },
+  {
+    "text": "rater pack koto?",
+    "intent": "data_package"
+  },
+  {
+    "text": "night time internet pack",
+    "intent": "data_package"
+  },
+  {
+    "text": "12am to 8am pack",
+    "intent": "data_package"
+  },
+  {
+    "text": "rat er net er dam",
+    "intent": "data_package"
+  },
+  {
+    "text": "night pack activate code",
+    "intent": "data_package"
+  },
+  {
+    "text": "day pack ache?",
+    "intent": "data_package"
+  },
+  {
+    "text": "din er net pack",
+    "intent": "data_package"
+  },
+  {
+    "text": "off peak data offer",
+    "intent": "data_package"
+  },
+  {
+    "text": "peak time internet pack",
+    "intent": "data_package"
+  },
+  {
+    "text": "mini data pack",
+    "intent": "data_package"
+  },
+  {
+    "text": "micro pack internet",
+    "intent": "data_package"
+  },
+  {
+    "text": "small internet offer",
+    "intent": "data_package"
+  },
+  {
+    "text": "boro pack internet",
+    "intent": "data_package"
+  },
+  {
+    "text": "large data bundle",
+    "intent": "data_package"
+  },
+  {
+    "text": "extra large net pack",
+    "intent": "data_package"
+  },
+  {
+    "text": "data pack activate code ki?",
+    "intent": "data_package"
+  },
+  {
+    "text": "ki dial korle net pack on hobe?",
+    "intent": "data_package"
+  },
+  {
+    "text": "internet package on korar USSD",
+    "intent": "data_package"
+  },
+  {
+    "text": "net pack dial korbo ki?",
+    "intent": "data_package"
+  },
+  {
+    "text": "data package kinlam but cholche na",
+    "intent": "data_package"
+  },
+  {
+    "text": "internet pack on ache but net paichi na",
+    "intent": "data_package"
+  },
+  {
+    "text": "net pack expire hoye geche",
+    "intent": "data_package"
+  },
+  {
+    "text": "data pack er validity koto din?",
+    "intent": "data_package"
+  },
+  {
+    "text": "internet package kotodin thakbe?",
+    "intent": "data_package"
+  },
+  {
+    "text": "validity beshi data pack chai",
+    "intent": "data_package"
+  },
+  {
+    "text": "long validity internet offer",
+    "intent": "data_package"
+  },
+  {
+    "text": "30 days validity data pack",
+    "intent": "data_package"
+  },
+  {
+    "text": "auto renew off korbo net pack er",
+    "intent": "data_package"
+  },
+  {
+    "text": "auto renewal bondho korbo data package",
+    "intent": "data_package"
+  },
+  {
+    "text": "net pack auto renew hoy keno?",
+    "intent": "data_package"
+  },
+  {
+    "text": "auto renew er charge kete niche",
+    "intent": "data_package"
+  },
+  {
+    "text": "internet package cancel korbo",
+    "intent": "data_package"
+  },
+  {
+    "text": "data pack deactivate korbo ki kore?",
+    "intent": "data_package"
+  },
+  {
+    "text": "net pack bondho korbo",
+    "intent": "data_package"
+  },
+  {
+    "text": "stop data package subscription",
+    "intent": "data_package"
+  },
+  {
+    "text": "data pack change korbo",
+    "intent": "data_package"
+  },
+  {
+    "text": "internet package upgrade korbo",
+    "intent": "data_package"
+  },
+  {
+    "text": "better pack e switch korbo",
+    "intent": "data_package"
+  },
+  {
+    "text": "net speed slow even with pack",
+    "intent": "data_package"
+  },
+  {
+    "text": "data pack ache but speed kom",
+    "intent": "data_package"
+  },
+  {
+    "text": "4G net pack kinbo",
+    "intent": "data_package"
+  },
+  {
+    "text": "net pck lagbo",
+    "intent": "data_package"
+  },
+  {
+    "text": "intrnet pkg",
+    "intent": "data_package"
+  },
+  {
+    "text": "data pckg list",
+    "intent": "data_package"
+  },
+  {
+    "text": "net er pckg koto tk?",
+    "intent": "data_package"
+  },
+  {
+    "text": "cheep net pack",
+    "intent": "data_package"
+  },
+  {
+    "text": "ssta internet",
+    "intent": "data_package"
+  },
+  {
+    "text": "net kinbo kemne?",
+    "intent": "data_package"
+  },
+  {
+    "text": "mb kinbo",
+    "intent": "data_package"
+  },
+  {
+    "text": "mb lagbe amar",
+    "intent": "data_package"
+  },
+  {
+    "text": "internet lagbe urgently",
+    "intent": "data_package"
+  },
+  {
+    "text": "net nai data pack kinbo",
+    "intent": "data_package"
+  },
+  {
+    "text": "emergency data pack ache?",
+    "intent": "data_package"
+  },
+  {
+    "text": "beshi MB er pack chai",
+    "intent": "data_package"
+  },
+  {
+    "text": "unlimited jodi thake net er",
+    "intent": "data_package"
+  },
+  {
+    "text": "sasti pack net er",
+    "intent": "data_package"
+  },
+  {
+    "text": "GP internet packages 2024",
+    "intent": "data_package"
+  },
+  {
+    "text": "latest data offers GP",
+    "intent": "data_package"
+  },
+  {
+    "text": "new internet pack GP te",
+    "intent": "data_package"
+  },
+  {
+    "text": "trending data package",
+    "intent": "data_package"
+  },
+  {
+    "text": "most popular net pack",
+    "intent": "data_package"
+  },
+  {
+    "text": "recommended data plan",
+    "intent": "data_package"
+  },
+  {
+    "text": "best selling internet package GP",
+    "intent": "data_package"
+  },
+  {
+    "text": "call charge ki GP te?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "per min rate bolen",
+    "intent": "call_rate"
+  },
+  {
+    "text": "minute er dam koto?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "GP call rate check korbo",
+    "intent": "call_rate"
+  },
+  {
+    "text": "current call rate ki amar?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "amar tariff e call rate koto?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "GP to GP koto taka per minute?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "same network call charge",
+    "intent": "call_rate"
+  },
+  {
+    "text": "onnet rate ki ekhon?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "off net call koto taka?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "GP theke Robi te call korle koto?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "GP theke Airtel e call rate",
+    "intent": "call_rate"
+  },
+  {
+    "text": "GP to Banglalink charge",
+    "intent": "call_rate"
+  },
+  {
+    "text": "GP to Teletalk rate",
+    "intent": "call_rate"
+  },
+  {
+    "text": "other operator call rate",
+    "intent": "call_rate"
+  },
+  {
+    "text": "different network call charge",
+    "intent": "call_rate"
+  },
+  {
+    "text": "landline call rate koto?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "BTCL number e call rate",
+    "intent": "call_rate"
+  },
+  {
+    "text": "fixed line e call korle koto?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "local call rate ki?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "STD call rate",
+    "intent": "call_rate"
+  },
+  {
+    "text": "ISD call rate GP",
+    "intent": "call_rate"
+  },
+  {
+    "text": "international call rate koto?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "bidesh e call korle koto lage?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "USA te call korle koto?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "UK call rate GP",
+    "intent": "call_rate"
+  },
+  {
+    "text": "India te call charge",
+    "intent": "call_rate"
+  },
+  {
+    "text": "Saudi Arabia call rate",
+    "intent": "call_rate"
+  },
+  {
+    "text": "UAE te call koto?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "Dubai te call er charge",
+    "intent": "call_rate"
+  },
+  {
+    "text": "Singapore call rate GP",
+    "intent": "call_rate"
+  },
+  {
+    "text": "Canada te call korte koto?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "Malaysia call charge",
+    "intent": "call_rate"
+  },
+  {
+    "text": "call rate kom korar upay",
+    "intent": "call_rate"
+  },
+  {
+    "text": "call rate reduce korte ki korbo?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "sasta call rate ki kore pabo?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "minute er dam kamano jay?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "call rate discount offer",
+    "intent": "call_rate"
+  },
+  {
+    "text": "FnF number add korbo",
+    "intent": "call_rate"
+  },
+  {
+    "text": "FnF number set korar code",
+    "intent": "call_rate"
+  },
+  {
+    "text": "FnF te call rate koto?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "super FnF rate ki?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "FnF change korbo ki kore?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "FnF number koyTa set kora jay?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "maximum FnF limit koto?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "FnF list dekhbo",
+    "intent": "call_rate"
+  },
+  {
+    "text": "minute pack list dekhao",
+    "intent": "call_rate"
+  },
+  {
+    "text": "voice bundle ki ki ache?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "minute offer GP",
+    "intent": "call_rate"
+  },
+  {
+    "text": "50 minute pack price",
+    "intent": "call_rate"
+  },
+  {
+    "text": "100 minute pack er dam",
+    "intent": "call_rate"
+  },
+  {
+    "text": "200 minute bundle koto?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "300 minute pack GP",
+    "intent": "call_rate"
+  },
+  {
+    "text": "500 minute offer ache?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "unlimited minute pack",
+    "intent": "call_rate"
+  },
+  {
+    "text": "any net minute pack",
+    "intent": "call_rate"
+  },
+  {
+    "text": "all operator minute bundle",
+    "intent": "call_rate"
+  },
+  {
+    "text": "GP to GP minute pack",
+    "intent": "call_rate"
+  },
+  {
+    "text": "onnet minute offer",
+    "intent": "call_rate"
+  },
+  {
+    "text": "off net minute pack",
+    "intent": "call_rate"
+  },
+  {
+    "text": "minute pack activate code",
+    "intent": "call_rate"
+  },
+  {
+    "text": "ki dial korle minute pack on hobe?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "minute pack kinbo ki kore?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "voice pack purchase process",
+    "intent": "call_rate"
+  },
+  {
+    "text": "minute bundle buy korbo",
+    "intent": "call_rate"
+  },
+  {
+    "text": "daily minute pack",
+    "intent": "call_rate"
+  },
+  {
+    "text": "weekly minute offer",
+    "intent": "call_rate"
+  },
+  {
+    "text": "monthly minute package",
+    "intent": "call_rate"
+  },
+  {
+    "text": "7 din er minute pack",
+    "intent": "call_rate"
+  },
+  {
+    "text": "30 din er minute bundle",
+    "intent": "call_rate"
+  },
+  {
+    "text": "minute pack validity koto?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "minute baki koto ache check",
+    "intent": "call_rate"
+  },
+  {
+    "text": "used minute koto check korbo",
+    "intent": "call_rate"
+  },
+  {
+    "text": "call history dekhbo",
+    "intent": "call_rate"
+  },
+  {
+    "text": "call log check GP",
+    "intent": "call_rate"
+  },
+  {
+    "text": "last call er charge koto chilo?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "call er charge list dekhao",
+    "intent": "call_rate"
+  },
+  {
+    "text": "tariff rate GP",
+    "intent": "call_rate"
+  },
+  {
+    "text": "call rte koto",
+    "intent": "call_rate"
+  },
+  {
+    "text": "cal rate gp",
+    "intent": "call_rate"
+  },
+  {
+    "text": "minute dam ki",
+    "intent": "call_rate"
+  },
+  {
+    "text": "kol rate",
+    "intent": "call_rate"
+  },
+  {
+    "text": "fone korle koto tk kaTe?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "call korle charge koto?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "call er taka",
+    "intent": "call_rate"
+  },
+  {
+    "text": "minute koto taka?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "minute er charge",
+    "intent": "call_rate"
+  },
+  {
+    "text": "ami call korle koto taka jabe?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "call charge ta ektu bolen",
+    "intent": "call_rate"
+  },
+  {
+    "text": "bhai call rate koto GP te?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "vai minute er dam ki ekhon?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "GP call rate updated list",
+    "intent": "call_rate"
+  },
+  {
+    "text": "latest call rate GP",
+    "intent": "call_rate"
+  },
+  {
+    "text": "new call rate ki?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "call rate change hoiche?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "call rate baRche keno?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "call charge beshi lagche keno?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "unexpected call charge",
+    "intent": "call_rate"
+  },
+  {
+    "text": "extra call charge kata hocche",
+    "intent": "call_rate"
+  },
+  {
+    "text": "pulse rate ki GP te?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "call pulse koto second?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "10 second pulse rate",
+    "intent": "call_rate"
+  },
+  {
+    "text": "1 second pulse offer",
+    "intent": "call_rate"
+  },
+  {
+    "text": "per second billing ache?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "second basis e charge hoy?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "conference call rate koto?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "group call charge ki?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "video call rate GP",
+    "intent": "call_rate"
+  },
+  {
+    "text": "video call charge koto?",
+    "intent": "call_rate"
+  },
+  {
+    "text": "SMS er dam koto?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "text message rate ki?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "per SMS koto taka?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS charge without package",
+    "intent": "sms_package"
+  },
+  {
+    "text": "package chara SMS koto?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "GP SMS rate ekhon ki?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "onnet SMS rate",
+    "intent": "sms_package"
+  },
+  {
+    "text": "off net SMS charge",
+    "intent": "sms_package"
+  },
+  {
+    "text": "GP to GP SMS koto?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "GP to Robi SMS rate",
+    "intent": "sms_package"
+  },
+  {
+    "text": "GP to Banglalink SMS koto?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "other operator SMS charge",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS pack buy korbo",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS bundle kinte chai",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS offer activate korbo",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS pack on korar code",
+    "intent": "sms_package"
+  },
+  {
+    "text": "ki dial korle SMS pack hobe?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "USSD code for SMS pack",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS pack kinbo ki kore?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS pack purchase process",
+    "intent": "sms_package"
+  },
+  {
+    "text": "50 SMS pack price",
+    "intent": "sms_package"
+  },
+  {
+    "text": "200 SMS bundle koto taka?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "500 SMS pack er dam",
+    "intent": "sms_package"
+  },
+  {
+    "text": "1000 SMS offer price",
+    "intent": "sms_package"
+  },
+  {
+    "text": "unlimited SMS pack ache?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "beshi SMS er pack chai",
+    "intent": "sms_package"
+  },
+  {
+    "text": "daily SMS offer",
+    "intent": "sms_package"
+  },
+  {
+    "text": "7 din er SMS pack",
+    "intent": "sms_package"
+  },
+  {
+    "text": "15 din er SMS bundle",
+    "intent": "sms_package"
+  },
+  {
+    "text": "monthly SMS package er dam",
+    "intent": "sms_package"
+  },
+  {
+    "text": "30 din er SMS offer",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS pack validity ki?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS pack kotodin thake?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS baki koto ache?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "remaining SMS check korbo",
+    "intent": "sms_package"
+  },
+  {
+    "text": "used SMS koto hoise?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS balance check code",
+    "intent": "sms_package"
+  },
+  {
+    "text": "any net SMS pack",
+    "intent": "sms_package"
+  },
+  {
+    "text": "all operator SMS bundle",
+    "intent": "sms_package"
+  },
+  {
+    "text": "GP to GP SMS pack",
+    "intent": "sms_package"
+  },
+  {
+    "text": "onnet SMS offer",
+    "intent": "sms_package"
+  },
+  {
+    "text": "off net SMS pack koto?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "international SMS rate koto?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "bidesh e SMS korle koto?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "international SMS pack ache?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS pack auto renew off korbo",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS auto renewal bondho",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS pack cancel korbo",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS package deactivate korbo",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS pack stop korbo ki kore?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS er best offer ki?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "cheapest SMS bundle ki?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "sasta SMS pack chai",
+    "intent": "sms_package"
+  },
+  {
+    "text": "budget SMS offer",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS combo pack ache?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS + minute pack",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS + internet combo",
+    "intent": "sms_package"
+  },
+  {
+    "text": "group SMS pack",
+    "intent": "sms_package"
+  },
+  {
+    "text": "bulk SMS offer",
+    "intent": "sms_package"
+  },
+  {
+    "text": "beshi SMS pathabo",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS sending problem hocche",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS jay na keno?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS delivery fail",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS pocche na",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS receive hocche na",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS pachi na keno?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "sms pck",
+    "intent": "sms_package"
+  },
+  {
+    "text": "sms er offer",
+    "intent": "sms_package"
+  },
+  {
+    "text": "sms pckg ki ki ase",
+    "intent": "sms_package"
+  },
+  {
+    "text": "sms kinbo",
+    "intent": "sms_package"
+  },
+  {
+    "text": "text msg pack",
+    "intent": "sms_package"
+  },
+  {
+    "text": "msg pack koto?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "message bundle koto taka?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "text pack GP",
+    "intent": "sms_package"
+  },
+  {
+    "text": "sms bundel offer",
+    "intent": "sms_package"
+  },
+  {
+    "text": "sms er dam ki ekhon?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "vai SMS pack ta ki?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "bro SMS offer dekhao",
+    "intent": "sms_package"
+  },
+  {
+    "text": "sms pack list ta den",
+    "intent": "sms_package"
+  },
+  {
+    "text": "shob SMS pack dekhte chai",
+    "intent": "sms_package"
+  },
+  {
+    "text": "GP SMS package full list",
+    "intent": "sms_package"
+  },
+  {
+    "text": "all SMS bundles GP",
+    "intent": "sms_package"
+  },
+  {
+    "text": "latest SMS offer GP",
+    "intent": "sms_package"
+  },
+  {
+    "text": "new SMS pack ache?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "trending SMS offer",
+    "intent": "sms_package"
+  },
+  {
+    "text": "popular SMS bundle",
+    "intent": "sms_package"
+  },
+  {
+    "text": "recommended SMS pack",
+    "intent": "sms_package"
+  },
+  {
+    "text": "best value SMS offer ki?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "ekta valo SMS pack bolen",
+    "intent": "sms_package"
+  },
+  {
+    "text": "konta SMS pack nibo?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "best SMS deal GP",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS pack suggestion",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS pack comparison",
+    "intent": "sms_package"
+  },
+  {
+    "text": "compare SMS bundles",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS pack er difference ki?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "MMS rate koto?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "MMS pack ache?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "multimedia message charge",
+    "intent": "sms_package"
+  },
+  {
+    "text": "picture message rate",
+    "intent": "sms_package"
+  },
+  {
+    "text": "amar SMS balance",
+    "intent": "sms_package"
+  },
+  {
+    "text": "sms koto baki",
+    "intent": "sms_package"
+  },
+  {
+    "text": "shob sms sesh hoye geche",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS pack sesh, notun kinbo",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS pack refresh korbo",
+    "intent": "sms_package"
+  },
+  {
+    "text": "noya SMS pack activate korbo",
+    "intent": "sms_package"
+  },
+  {
+    "text": "same SMS pack abar kinbo",
+    "intent": "sms_package"
+  },
+  {
+    "text": "repeat SMS offer",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS pack renew korbo manually",
+    "intent": "sms_package"
+  },
+  {
+    "text": "ekbare beshi SMS er pack",
+    "intent": "sms_package"
+  },
+  {
+    "text": "maximum SMS pack ki?",
+    "intent": "sms_package"
+  },
+  {
+    "text": "sobcheye boro SMS bundle",
+    "intent": "sms_package"
+  },
+  {
+    "text": "largest SMS pack GP",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS offer dial code list",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS pack code gulo bolen",
+    "intent": "sms_package"
+  },
+  {
+    "text": "SMS pack er USSD number",
+    "intent": "sms_package"
+  },
+  {
+    "text": "network er problem",
+    "intent": "network_issue"
+  },
+  {
+    "text": "signal dhore na",
+    "intent": "network_issue"
+  },
+  {
+    "text": "signal aste aste jaye",
+    "intent": "network_issue"
+  },
+  {
+    "text": "network fluctuate korche",
+    "intent": "network_issue"
+  },
+  {
+    "text": "network unstable",
+    "intent": "network_issue"
+  },
+  {
+    "text": "bar up down hocche",
+    "intent": "network_issue"
+  },
+  {
+    "text": "signal bar komti",
+    "intent": "network_issue"
+  },
+  {
+    "text": "1 bar signal only",
+    "intent": "network_issue"
+  },
+  {
+    "text": "no service likha dekhacche",
+    "intent": "network_issue"
+  },
+  {
+    "text": "emergency calls only dekhacche",
+    "intent": "network_issue"
+  },
+  {
+    "text": "network registration failed",
+    "intent": "network_issue"
+  },
+  {
+    "text": "SIM not registered on network",
+    "intent": "network_issue"
+  },
+  {
+    "text": "net slow hoye geche",
+    "intent": "network_issue"
+  },
+  {
+    "text": "internet speed kome geche",
+    "intent": "network_issue"
+  },
+  {
+    "text": "browsing slow",
+    "intent": "network_issue"
+  },
+  {
+    "text": "page load hocche na",
+    "intent": "network_issue"
+  },
+  {
+    "text": "website khulche na",
+    "intent": "network_issue"
+  },
+  {
+    "text": "YouTube buffer hocche",
+    "intent": "network_issue"
+  },
+  {
+    "text": "video lag korche",
+    "intent": "network_issue"
+  },
+  {
+    "text": "streaming quality kharap",
+    "intent": "network_issue"
+  },
+  {
+    "text": "download speed kom",
+    "intent": "network_issue"
+  },
+  {
+    "text": "upload speed slow",
+    "intent": "network_issue"
+  },
+  {
+    "text": "ping beshi",
+    "intent": "network_issue"
+  },
+  {
+    "text": "latency beshi hocche",
+    "intent": "network_issue"
+  },
+  {
+    "text": "online game lag korche net er jonne",
+    "intent": "network_issue"
+  },
+  {
+    "text": "net er speed test kori ki kore?",
+    "intent": "network_issue"
+  },
+  {
+    "text": "speed check korbo",
+    "intent": "network_issue"
+  },
+  {
+    "text": "internet speed test",
+    "intent": "network_issue"
+  },
+  {
+    "text": "actual speed koto pachi?",
+    "intent": "network_issue"
+  },
+  {
+    "text": "promised speed paichi na",
+    "intent": "network_issue"
+  },
+  {
+    "text": "4G speed pachi na",
+    "intent": "network_issue"
+  },
+  {
+    "text": "3G e cholche keno?",
+    "intent": "network_issue"
+  },
+  {
+    "text": "4G howar kotha but 3G dekhacche",
+    "intent": "network_issue"
+  },
+  {
+    "text": "LTE signal nai",
+    "intent": "network_issue"
+  },
+  {
+    "text": "4G network dhore na amar area te",
+    "intent": "network_issue"
+  },
+  {
+    "text": "amar building e signal nai",
+    "intent": "network_issue"
+  },
+  {
+    "text": "indoor signal problem",
+    "intent": "network_issue"
+  },
+  {
+    "text": "ghorer bhitor signal kam",
+    "intent": "network_issue"
+  },
+  {
+    "text": "basement e network nai",
+    "intent": "network_issue"
+  },
+  {
+    "text": "lift e signal chale jay",
+    "intent": "network_issue"
+  },
+  {
+    "text": "garir moddhye signal nai",
+    "intent": "network_issue"
+  },
+  {
+    "text": "moving e signal drop hoy",
+    "intent": "network_issue"
+  },
+  {
+    "text": "highway te network nai",
+    "intent": "network_issue"
+  },
+  {
+    "text": "rural area te signal kom",
+    "intent": "network_issue"
+  },
+  {
+    "text": "amar village e GP network nai",
+    "intent": "network_issue"
+  },
+  {
+    "text": "gramer dike signal kharap",
+    "intent": "network_issue"
+  },
+  {
+    "text": "shahor e network thik but gram e nai",
+    "intent": "network_issue"
+  },
+  {
+    "text": "signal improve korar upay ki?",
+    "intent": "network_issue"
+  },
+  {
+    "text": "network better korben kobe?",
+    "intent": "network_issue"
+  },
+  {
+    "text": "tower lagaben ki amar area te?",
+    "intent": "network_issue"
+  },
+  {
+    "text": "new tower er plan ache?",
+    "intent": "network_issue"
+  },
+  {
+    "text": "coverage map kothay dekhbo?",
+    "intent": "network_issue"
+  },
+  {
+    "text": "GP coverage area check",
+    "intent": "network_issue"
+  },
+  {
+    "text": "amar area te GP coverage ache?",
+    "intent": "network_issue"
+  },
+  {
+    "text": "network issue report korbo",
+    "intent": "network_issue"
+  },
+  {
+    "text": "complaint korbo network niye",
+    "intent": "network_issue"
+  },
+  {
+    "text": "tower maintenance cholche?",
+    "intent": "network_issue"
+  },
+  {
+    "text": "scheduled maintenance ache?",
+    "intent": "network_issue"
+  },
+  {
+    "text": "network down ki ekhon?",
+    "intent": "network_issue"
+  },
+  {
+    "text": "GP server down?",
+    "intent": "network_issue"
+  },
+  {
+    "text": "shobai ki problem face korche?",
+    "intent": "network_issue"
+  },
+  {
+    "text": "ami eka ki na shobai er network nai?",
+    "intent": "network_issue"
+  },
+  {
+    "text": "area wise network problem",
+    "intent": "network_issue"
+  },
+  {
+    "text": "Dhaka te network kharap",
+    "intent": "network_issue"
+  },
+  {
+    "text": "Chittagong e GP signal kom",
+    "intent": "network_issue"
+  },
+  {
+    "text": "Sylhet e network issue",
+    "intent": "network_issue"
+  },
+  {
+    "text": "Rajshahi te signal problem",
+    "intent": "network_issue"
+  },
+  {
+    "text": "Khulna te GP network",
+    "intent": "network_issue"
+  },
+  {
+    "text": "net kaj krtese na",
+    "intent": "network_issue"
+  },
+  {
+    "text": "network prblm",
+    "intent": "network_issue"
+  },
+  {
+    "text": "signal nai re",
+    "intent": "network_issue"
+  },
+  {
+    "text": "net er obostha kharap",
+    "intent": "network_issue"
+  },
+  {
+    "text": "internet ashe na",
+    "intent": "network_issue"
+  },
+  {
+    "text": "net paichi na",
+    "intent": "network_issue"
+  },
+  {
+    "text": "call keTeche majhe majhe",
+    "intent": "network_issue"
+  },
+  {
+    "text": "call disconnect hoye jay",
+    "intent": "network_issue"
+  },
+  {
+    "text": "voice clear na",
+    "intent": "network_issue"
+  },
+  {
+    "text": "call e awaj bhenge jay",
+    "intent": "network_issue"
+  },
+  {
+    "text": "echo hoy call e",
+    "intent": "network_issue"
+  },
+  {
+    "text": "static noise call e",
+    "intent": "network_issue"
+  },
+  {
+    "text": "one side voice",
+    "intent": "network_issue"
+  },
+  {
+    "text": "ek dik theke shunchi na",
+    "intent": "network_issue"
+  },
+  {
+    "text": "caller ke shunchi na",
+    "intent": "network_issue"
+  },
+  {
+    "text": "they cant hear me",
+    "intent": "network_issue"
+  },
+  {
+    "text": "incoming call ase na",
+    "intent": "network_issue"
+  },
+  {
+    "text": "outgoing call jay na",
+    "intent": "network_issue"
+  },
+  {
+    "text": "call hocche na keno?",
+    "intent": "network_issue"
+  },
+  {
+    "text": "call lagano jacche na",
+    "intent": "network_issue"
+  },
+  {
+    "text": "mobile data on ache but net nai",
+    "intent": "network_issue"
+  },
+  {
+    "text": "data on but internet chalche na",
+    "intent": "network_issue"
+  },
+  {
+    "text": "APN setting ache but net hocche na",
+    "intent": "network_issue"
+  },
+  {
+    "text": "net setting thik ache tahole keno hocche na?",
+    "intent": "network_issue"
+  },
+  {
+    "text": "VoLTE kaj korche na",
+    "intent": "network_issue"
+  },
+  {
+    "text": "HD voice cholche na",
+    "intent": "network_issue"
+  },
+  {
+    "text": "network mode auto te ache tahole?",
+    "intent": "network_issue"
+  },
+  {
+    "text": "airplane mode on off korlam but thik hoy nai",
+    "intent": "network_issue"
+  },
+  {
+    "text": "phone restart dilam but network thik hoy nai",
+    "intent": "network_issue"
+  },
+  {
+    "text": "SIM khule lage dilam but same problem",
+    "intent": "network_issue"
+  },
+  {
+    "text": "net slow re bhai",
+    "intent": "network_issue"
+  },
+  {
+    "text": "vai network er ki obostha?",
+    "intent": "network_issue"
+  },
+  {
+    "text": "aajke net keno slow?",
+    "intent": "network_issue"
+  },
+  {
+    "text": "kaal theke net problem",
+    "intent": "network_issue"
+  },
+  {
+    "text": "shokal theke signal nai",
+    "intent": "network_issue"
+  },
+  {
+    "text": "raat e net slow hoy keno?",
+    "intent": "network_issue"
+  },
+  {
+    "text": "brishti te network kharap hoy?",
+    "intent": "network_issue"
+  },
+  {
+    "text": "toofan er por network nai",
+    "intent": "network_issue"
+  },
+  {
+    "text": "load shedding er por network gelo",
+    "intent": "network_issue"
+  },
+  {
+    "text": "bijli ashar por o network nai",
+    "intent": "network_issue"
+  },
+  {
+    "text": "SIM replace korte chai",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "notun SIM lagbe same number",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM ta bhenge geche",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM read hocche na",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "phone e SIM detect korche na",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM card error dekhacche",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "invalid SIM dekhacche",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM locked hoye geche",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM block hoye geche",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM unblock korbo ki kore?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "blocked SIM recover korbo",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM replace er process ki?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM replace korte ki ki document lagbe?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "NID lagbe SIM replace e?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "passport diye SIM replace hoy?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "biometric verification lagbe?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "fingerprint diye SIM replace",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "GP center e giye SIM replace korbo",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "online theke SIM replace hoy?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM replace koto somoy lage?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "same day SIM replace hoy?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM replace fee koto?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "charge koto SIM change e?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "free SIM replace hoy?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM upgrade korte koto taka?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "micro SIM to nano SIM",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "nano SIM chai",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM size change korbo",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "chhoto SIM lagbe",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM cutter use korbo?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM adapter lagbe",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "eSIM ki GP te ache?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "eSIM activate korbo ki kore?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "eSIM er advantage ki?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "eSIM te switch korbo",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "eSIM supported phone ki ki?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "iPhone e eSIM lagabo",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "Samsung e eSIM use korbo",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "eSIM er charge koto?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "eSIM replace er fee",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "physical SIM theke eSIM",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "eSIM theke physical SIM",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "dual SIM er jonne eSIM",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "eSIM QR code ki kore pabo?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "eSIM download korbo",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "eSIM scan korbo",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "4G SIM ki kore pabo?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "4G SIM free te dey?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "4G upgrade free ache?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "3G SIM ache amar, 4G te upgrade korbo",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM upgrade er benefit ki?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "4G SIM lagale speed barbe?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM replace korar por balance thakbe?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM change korle data pack thakbe?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "purano SIM er shob kisu ki new SIM e asbe?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "contacts ki SIM e save thake?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM replace korar por number same thakbe to?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "ami ki amar number rakhte parbo SIM change korle?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM hariye gele ki korbo?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "lost SIM report korbo",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM churi hoye geche",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "stolen SIM block korbo",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM ta pani te pore geche",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "wet SIM fix hobe?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM garam hoye jay",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM overheating problem",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM tray stuck hoye geche",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM baire ber hocche na",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "sim rplce korbo",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "sim change",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "noya sim chai",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "sim lagbe bhai",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "sim nosto",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "sim kaj kortese na",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "sim detect hoy na",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "sim er problem",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "GP SIM replace nearest center",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "amar kache GP center kothay SIM replace er jonne?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "appointment lagbe SIM replace e?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "walk in korle SIM replace hoy?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM registration information update korbo",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM er nam change korbo",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM ownership transfer korbo",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "onno name e SIM transfer",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM er malik change",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "ownership change er process ki?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM re-registration korbo",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM verify korbo",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM verification process ki?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "biometric update korbo SIM er",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "amar SIM er information update korbo",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM er NID update",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "photo update korbo SIM registration e",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "address change korbo SIM e",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM registration renewal",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM expire hoye jabe ki use na korle?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "inactive SIM activate korbo",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "bondho SIM chalu korbo",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "old SIM reactivate korbo",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "SIM bondho hoye geche, ki korbo?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "GP SIM kinte gele ki lagbe?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "new GP SIM registration",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "new GP connection nibo",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "notun GP SIM er dam koto?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "prepaid SIM koto taka?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "postpaid SIM nite ki lagbe?",
+    "intent": "sim_replace"
+  },
+  {
+    "text": "MyGP app ta ki kore use korbo?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP te ki ki offer ache?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP app khulche na",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP open hocche na",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP app force close hocche",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP hang korche",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP app loading hocche na",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP white screen dekhacche",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP black screen",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP stuck hoye ache",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP login korte parchi na",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP password bhule gechi",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP reset password korbo",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP OTP asche na",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "OTP receive hocche na MyGP te",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP verification code pachi na",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP new account create korbo",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP registration process",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP sign up korbo ki kore?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP profile update korbo",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP te name change korbo",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP te email add korbo",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP app latest version ki?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP update ache?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP app new version download",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP app Play Store e nai",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP App Store e pacci na",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP compatible phone ki ki?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP ki purano phone e cholbe?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "minimum Android version MyGP er jonne?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "iOS version lagbe koto MyGP er jonne?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP app size koto?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP app koto MB?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP app free te use kora jay?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP use korte net lage?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP data free?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP app diye balance check",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP theke internet pack kinbo",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP app diye minute pack buy",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP theke SMS pack kinbo",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP diye offer activate korbo",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP app theke recharge korbo ki kore?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP te bill pay korte parbo?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP app diye bill check korbo",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP te payment method add korbo",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP te bKash link korbo",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP te card add korbo",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP exclusive offer ki?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "app only offer dekhbo",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP star points ki?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP rewards",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP loyalty program",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP app er notification off korbo",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP push notification bondho",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP notification beshi asche",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP dark mode ache?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP theme change korbo",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP language change korbo Bangla te",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP Bangla te use korbo",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP app er settings kothay?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP te help section ache?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP live chat support",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP te customer care er sathe kotha bolbo",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP app feedback dibo",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP app rating dibo",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "MyGP app review likhbo",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp app",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp kaj kore na",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp te dhukchi na",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp problm",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp chalate parchi na",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp download link",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp install",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp app ta den",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "my gp app kothay pabo?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp apk download",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "my gp app cholche na keno?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp te error asche",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp app e something went wrong",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp server error",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp connection timeout",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp app slow load hocche",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp te internet pack er price dekhbo",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp diye data usage dekhbo",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp call history dekhbo",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp te transaction history",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp payment history check",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp te auto pay set korbo",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp app uninstall kore install korbo",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp cache clear korbo ki kore?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp data clear korle ki hobe?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp reinstall korle account thakbe?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp multiple number add korbo",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp te onno number manage korbo",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp family number add",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp te referral program ache?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp refer korle ki pabo?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "bhai mygp app ta ki jinish?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "vai mygp te ki ki kora jay?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp useful ki?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp chara ki pack kena jay?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp er alternative ki?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp web version ache?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp browser e cholbe?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp lite version ache?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp app data use koto kore?",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "mygp background data use bondho korbo",
+    "intent": "myGP_app"
+  },
+  {
+    "text": "bill er amount koto ekhon?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "current month er bill koto?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "ei mash er bill dekhao",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "last month er bill koto chilo?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "previous bill amount",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill er breakdown dekhbo",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "itemized bill chai",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "detailed bill dekhao",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill e ki ki charge ache?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "extra charge keno bill e?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill e unexpected charge",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill beshi elo keno?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "overcharge hoye geche bill e",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill dispute korbo",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill niye complaint korbo",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "wrong bill eshche",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill er correction chai",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill adjust korben",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill pay korar shob upay",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill payment method ki ki?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "ki ki diye bill pay kora jay?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bKash bill pay process",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "Nagad diye postpaid bill",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "Rocket theke bill pay",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "mobile banking diye bill",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bank theke auto bill pay",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "standing instruction bill pay",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "auto debit set korbo bill er jonne",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "automatic bill payment on korbo",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "credit card diye bill pay",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "debit card bill payment",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "online banking bill pay",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "GP website theke bill pay",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "MyGP app diye bill pay process",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "GP center e bill pay korbo",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "cash diye bill pay hoy?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill pay korar deadline kobe?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "payment er last date ki?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill overdue hoye geche",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "late fee koto?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "late payment charge ki?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill pay na korle SIM bondho hobe?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "connection disconnect hobe ki?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "overdue bill pay korle connection fire asbe?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "reconnection charge koto?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "partial bill pay kora jay?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "installment e bill pay korbo",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill er ek part pay korbo",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "advance bill pay korbo",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "advance payment kora jay?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "e-bill statement chai",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "email e bill pathao",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill er PDF chai",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "print bill korbo",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill download korbo",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill copy chai",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "duplicate bill nibo",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill er history dekhbo",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "6 month er bill history",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "yearly bill summary",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "total spend koto hoiche?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "average monthly bill koto?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill cycle ki?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "billing date ki?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill generate hoy kobe?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "next bill kobe asbe?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "estimated next bill koto hobe?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "unbilled usage koto?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "current usage charge koto?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bil pay korbo",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill dibo",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bil er taka",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill kto?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bil kobe dite hbe?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill dite hobe kokhon?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill er tk koto?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "postpaid bil",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "vai bill koto amar?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bro bill check koro ektu",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill ta pay kore den",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "help me pay my bill",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "can you pay my bill?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill payment receipt pabo ki?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "payment confirmation chai",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill paid kintu receipt pachi na",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "payment successful hoiche ki?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill pay hoiche ki check korbo",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "last payment kobe korechilam?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "payment history dekhbo",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill payment confirmation SMS asche na",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "postpaid to prepaid switch korle bill ki hobe?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "connection cancel korle pending bill ki hobe?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "security deposit refund pabo ki?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "advance payment refund",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "overpayment refund process",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill e VAT charge koto?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "supplementary duty bill e",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "tax charge bill e ki ki?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "SD charge mane ki bill e?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "government charge bill e keno?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "total payable amount koto?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "minimum payment amount ki?",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill pay korte giye error hocche",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill payment failed",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "taka kete niche but bill pay hoy nai",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "bill payment transaction failed",
+    "intent": "bill_payment"
+  },
+  {
+    "text": "roaming service ki?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming mane ki?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming ki kore kaj kore?",
+    "intent": "roaming"
+  },
+  {
+    "text": "GP roaming service details",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming activate korar process",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming on korte ki ki lagbe?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming er jonne apply korbo",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming application form ache?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming request korbo",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming activate koto somoy lage?",
+    "intent": "roaming"
+  },
+  {
+    "text": "instant roaming activation hoy?",
+    "intent": "roaming"
+  },
+  {
+    "text": "advance e roaming on korte hoy?",
+    "intent": "roaming"
+  },
+  {
+    "text": "flight er age roaming on korbo",
+    "intent": "roaming"
+  },
+  {
+    "text": "bidesh jawar age ki korbo GP er jonne?",
+    "intent": "roaming"
+  },
+  {
+    "text": "airport e roaming on korbo",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming auto activate hoy?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming manually on korte hoy?",
+    "intent": "roaming"
+  },
+  {
+    "text": "phone settings e roaming on korbo ki kore?",
+    "intent": "roaming"
+  },
+  {
+    "text": "data roaming enable korbo",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming e internet use korbo ki kore?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming data expensive ki?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming e data charge koto?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming call receive charge",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming e incoming call free?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming e outgoing call charge",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming e local call charge koto?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming country te local number e call",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming e Bangladesh e call korle koto?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming e SMS charge koto?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming e SMS pathale koto lage?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming SMS receive charge ache?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming pack list dekhao",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming bundle ki ki ache?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming data pack price",
+    "intent": "roaming"
+  },
+  {
+    "text": "daily roaming pack",
+    "intent": "roaming"
+  },
+  {
+    "text": "weekly roaming bundle",
+    "intent": "roaming"
+  },
+  {
+    "text": "monthly roaming package",
+    "intent": "roaming"
+  },
+  {
+    "text": "3 din er roaming pack",
+    "intent": "roaming"
+  },
+  {
+    "text": "7 din er roaming offer",
+    "intent": "roaming"
+  },
+  {
+    "text": "15 din er roaming bundle",
+    "intent": "roaming"
+  },
+  {
+    "text": "30 din er roaming pack",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming pack activate code",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming offer dial code",
+    "intent": "roaming"
+  },
+  {
+    "text": "India roaming pack",
+    "intent": "roaming"
+  },
+  {
+    "text": "Malaysia roaming offer",
+    "intent": "roaming"
+  },
+  {
+    "text": "Singapore roaming bundle",
+    "intent": "roaming"
+  },
+  {
+    "text": "Thailand roaming pack",
+    "intent": "roaming"
+  },
+  {
+    "text": "UAE roaming package",
+    "intent": "roaming"
+  },
+  {
+    "text": "Dubai roaming offer",
+    "intent": "roaming"
+  },
+  {
+    "text": "Saudi Arabia roaming",
+    "intent": "roaming"
+  },
+  {
+    "text": "UK roaming pack GP",
+    "intent": "roaming"
+  },
+  {
+    "text": "USA roaming offer",
+    "intent": "roaming"
+  },
+  {
+    "text": "Canada roaming bundle",
+    "intent": "roaming"
+  },
+  {
+    "text": "Australia roaming pack",
+    "intent": "roaming"
+  },
+  {
+    "text": "Europe roaming offer",
+    "intent": "roaming"
+  },
+  {
+    "text": "Middle East roaming pack",
+    "intent": "roaming"
+  },
+  {
+    "text": "South East Asia roaming",
+    "intent": "roaming"
+  },
+  {
+    "text": "Japan roaming offer",
+    "intent": "roaming"
+  },
+  {
+    "text": "Korea roaming pack",
+    "intent": "roaming"
+  },
+  {
+    "text": "China roaming bundle",
+    "intent": "roaming"
+  },
+  {
+    "text": "Turkey roaming offer GP",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming partner operator ki?",
+    "intent": "roaming"
+  },
+  {
+    "text": "GP er roaming partner kon kon?",
+    "intent": "roaming"
+  },
+  {
+    "text": "ki ki country te GP roaming ache?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming supported country list",
+    "intent": "roaming"
+  },
+  {
+    "text": "total roaming coverage countries",
+    "intent": "roaming"
+  },
+  {
+    "text": "Africa te GP roaming ache?",
+    "intent": "roaming"
+  },
+  {
+    "text": "South America te roaming?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming e emergency call",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming e 999 call hoy?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming zone ki?",
+    "intent": "roaming"
+  },
+  {
+    "text": "zone 1 roaming rate",
+    "intent": "roaming"
+  },
+  {
+    "text": "zone 2 roaming charge",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming charge zone wise",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming bill kobe asbe?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming er charge kobe kaTbe?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming usage check korbo",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming e balance check",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming e remaining pack check",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming off korbo ki kore?",
+    "intent": "roaming"
+  },
+  {
+    "text": "deactivate roaming service",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming bondho korte chai",
+    "intent": "roaming"
+  },
+  {
+    "text": "deshe fire roaming off korbo",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming auto off hoy deshe firle?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming e phone kaj korche na",
+    "intent": "roaming"
+  },
+  {
+    "text": "bidesh e eshe network paichi na",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming on ache but signal nai",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming network select korbo manually",
+    "intent": "roaming"
+  },
+  {
+    "text": "manual network selection roaming e",
+    "intent": "roaming"
+  },
+  {
+    "text": "operator select korbo roaming e",
+    "intent": "roaming"
+  },
+  {
+    "text": "roming korbo",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming koto tk?",
+    "intent": "roaming"
+  },
+  {
+    "text": "bidesh e fone use korbo",
+    "intent": "roaming"
+  },
+  {
+    "text": "abroad jabo GP number niye",
+    "intent": "roaming"
+  },
+  {
+    "text": "foreign e giye GP chalabo",
+    "intent": "roaming"
+  },
+  {
+    "text": "baire deshe GP",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming er balance koto thakte hoy?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming deposit koto?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming security deposit",
+    "intent": "roaming"
+  },
+  {
+    "text": "postpaid roaming lage?",
+    "intent": "roaming"
+  },
+  {
+    "text": "prepaid te roaming hoy?",
+    "intent": "roaming"
+  },
+  {
+    "text": "prepaid roaming available?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming e WiFi calling hoy?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming e VoLTE use korbo?",
+    "intent": "roaming"
+  },
+  {
+    "text": "bidesh e giye data pack kinbo",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming e data pack buy",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming e MyGP use korbo",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming tips ki ki?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming e taka bachabo ki kore?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming bill shock ki?",
+    "intent": "roaming"
+  },
+  {
+    "text": "roaming e bill beshi na asar upay",
+    "intent": "roaming"
+  },
+  {
+    "text": "amar number ki?",
+    "intent": "account_info"
+  },
+  {
+    "text": "own number ta bhule gechi",
+    "intent": "account_info"
+  },
+  {
+    "text": "nijer number dekhbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "what is my GP number?",
+    "intent": "account_info"
+  },
+  {
+    "text": "my phone number please",
+    "intent": "account_info"
+  },
+  {
+    "text": "amar GP number dekhte ki korbo?",
+    "intent": "account_info"
+  },
+  {
+    "text": "*2# diye ki hoy?",
+    "intent": "account_info"
+  },
+  {
+    "text": "own number check USSD code",
+    "intent": "account_info"
+  },
+  {
+    "text": "dial code own number er jonne",
+    "intent": "account_info"
+  },
+  {
+    "text": "ki dial korle nijer number dekhbo?",
+    "intent": "account_info"
+  },
+  {
+    "text": "amar account er details",
+    "intent": "account_info"
+  },
+  {
+    "text": "account info dekhao",
+    "intent": "account_info"
+  },
+  {
+    "text": "my GP account summary",
+    "intent": "account_info"
+  },
+  {
+    "text": "account details ki ki?",
+    "intent": "account_info"
+  },
+  {
+    "text": "profile information dekhbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "account e ki name ache?",
+    "intent": "account_info"
+  },
+  {
+    "text": "account er NID ki?",
+    "intent": "account_info"
+  },
+  {
+    "text": "registration info dekhbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "amar SIM kobe register hoiche?",
+    "intent": "account_info"
+  },
+  {
+    "text": "SIM activation date ki?",
+    "intent": "account_info"
+  },
+  {
+    "text": "account age koto?",
+    "intent": "account_info"
+  },
+  {
+    "text": "koto din dhore ei number use korchi?",
+    "intent": "account_info"
+  },
+  {
+    "text": "current plan ki amar?",
+    "intent": "account_info"
+  },
+  {
+    "text": "amar ekhon ki package e achi?",
+    "intent": "account_info"
+  },
+  {
+    "text": "tariff plan name ki?",
+    "intent": "account_info"
+  },
+  {
+    "text": "my package name",
+    "intent": "account_info"
+  },
+  {
+    "text": "ki rate e achi ami?",
+    "intent": "account_info"
+  },
+  {
+    "text": "amar plan er details ki?",
+    "intent": "account_info"
+  },
+  {
+    "text": "plan details dekhao",
+    "intent": "account_info"
+  },
+  {
+    "text": "package er features ki ki?",
+    "intent": "account_info"
+  },
+  {
+    "text": "amar plan e ki ki ache?",
+    "intent": "account_info"
+  },
+  {
+    "text": "plan change korte chai",
+    "intent": "account_info"
+  },
+  {
+    "text": "package switch korbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "tariff migrate korbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "better plan e jete chai",
+    "intent": "account_info"
+  },
+  {
+    "text": "plan upgrade korbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "plan downgrade korbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "cheaper plan e jete parbo?",
+    "intent": "account_info"
+  },
+  {
+    "text": "plan change korle ki hobe?",
+    "intent": "account_info"
+  },
+  {
+    "text": "plan change er charge koto?",
+    "intent": "account_info"
+  },
+  {
+    "text": "free plan change hoy?",
+    "intent": "account_info"
+  },
+  {
+    "text": "available plans ki ki?",
+    "intent": "account_info"
+  },
+  {
+    "text": "GP prepaid plans list",
+    "intent": "account_info"
+  },
+  {
+    "text": "postpaid plans dekhao",
+    "intent": "account_info"
+  },
+  {
+    "text": "best plan ki GP te?",
+    "intent": "account_info"
+  },
+  {
+    "text": "recommended plan ki?",
+    "intent": "account_info"
+  },
+  {
+    "text": "plan comparison korbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "plans compare korte chai",
+    "intent": "account_info"
+  },
+  {
+    "text": "kon plan ta valo?",
+    "intent": "account_info"
+  },
+  {
+    "text": "active services list dekhbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "ki ki service on ache amar?",
+    "intent": "account_info"
+  },
+  {
+    "text": "subscribed services dekhao",
+    "intent": "account_info"
+  },
+  {
+    "text": "VAS deactivate korbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "value added service bondho korbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "unwanted service off korbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "auto subscribe hoy keno services?",
+    "intent": "account_info"
+  },
+  {
+    "text": "service auto activate bondho korbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "subscription trap bondho korbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "taka kete jacche ki service er jonne?",
+    "intent": "account_info"
+  },
+  {
+    "text": "hidden charges ki ki ache?",
+    "intent": "account_info"
+  },
+  {
+    "text": "charge keno kaTche bujhchi na",
+    "intent": "account_info"
+  },
+  {
+    "text": "unexpected deduction hocche",
+    "intent": "account_info"
+  },
+  {
+    "text": "call forwarding on/off korbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "call divert set korbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "call waiting on korbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "caller ID show korbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "number hide korbo call e",
+    "intent": "account_info"
+  },
+  {
+    "text": "private number call korbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "DND activate korbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "do not disturb on korbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "promotional call bondho korbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "telemarketing call bondho",
+    "intent": "account_info"
+  },
+  {
+    "text": "spam call block korbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "amar acnt info",
+    "intent": "account_info"
+  },
+  {
+    "text": "accnt details",
+    "intent": "account_info"
+  },
+  {
+    "text": "numbr ki amar",
+    "intent": "account_info"
+  },
+  {
+    "text": "plan ki ase amar",
+    "intent": "account_info"
+  },
+  {
+    "text": "pkg change korbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "account ta dekhao",
+    "intent": "account_info"
+  },
+  {
+    "text": "amar info ki GP te?",
+    "intent": "account_info"
+  },
+  {
+    "text": "GP te amar ki record ache?",
+    "intent": "account_info"
+  },
+  {
+    "text": "sim registration check korbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "sim registered ki na check",
+    "intent": "account_info"
+  },
+  {
+    "text": "amar name e koyTa SIM ache?",
+    "intent": "account_info"
+  },
+  {
+    "text": "NID diye SIM check",
+    "intent": "account_info"
+  },
+  {
+    "text": "total SIM count amar name e",
+    "intent": "account_info"
+  },
+  {
+    "text": "prepaid na postpaid ami?",
+    "intent": "account_info"
+  },
+  {
+    "text": "ami ki prepaid user?",
+    "intent": "account_info"
+  },
+  {
+    "text": "postpaid te switch korbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "prepaid te switch korbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "prepaid to postpaid migration",
+    "intent": "account_info"
+  },
+  {
+    "text": "postpaid to prepaid conversion",
+    "intent": "account_info"
+  },
+  {
+    "text": "account reactivate korbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "dormant account activate korbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "inactive number chalu korbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "account suspend hoye geche keno?",
+    "intent": "account_info"
+  },
+  {
+    "text": "account er validity koto din?",
+    "intent": "account_info"
+  },
+  {
+    "text": "SIM validity extend korbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "validity barabo ki kore?",
+    "intent": "account_info"
+  },
+  {
+    "text": "usage history dekhbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "recharge history check",
+    "intent": "account_info"
+  },
+  {
+    "text": "call history list",
+    "intent": "account_info"
+  },
+  {
+    "text": "data usage history",
+    "intent": "account_info"
+  },
+  {
+    "text": "last 7 days usage",
+    "intent": "account_info"
+  },
+  {
+    "text": "monthly usage summary",
+    "intent": "account_info"
+  },
+  {
+    "text": "billing cycle change korbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "credit limit change korbo postpaid",
+    "intent": "account_info"
+  },
+  {
+    "text": "credit limit barabo",
+    "intent": "account_info"
+  },
+  {
+    "text": "postpaid credit limit koto?",
+    "intent": "account_info"
+  },
+  {
+    "text": "spending limit set korbo",
+    "intent": "account_info"
+  },
+  {
+    "text": "GP helpline e call lagabo",
+    "intent": "customer_support"
+  },
+  {
+    "text": "customer care e kotha bolbo",
+    "intent": "customer_support"
+  },
+  {
+    "text": "121 number ta ki free?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "121 e call korle charge kaTe?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "helpline charge koto?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "customer care er working hours ki?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "raat e customer care pabo?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "24/7 support ache?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "GP hotline 24 hours?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "customer service open kokhon?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "complaint number ki?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "complaint korbo GP er biruddhe",
+    "intent": "customer_support"
+  },
+  {
+    "text": "service niye obishong",
+    "intent": "customer_support"
+  },
+  {
+    "text": "khub kharap service diche GP",
+    "intent": "customer_support"
+  },
+  {
+    "text": "I am very unhappy with GP service",
+    "intent": "customer_support"
+  },
+  {
+    "text": "worst network service ever",
+    "intent": "customer_support"
+  },
+  {
+    "text": "terrible customer support",
+    "intent": "customer_support"
+  },
+  {
+    "text": "no one is helping me",
+    "intent": "customer_support"
+  },
+  {
+    "text": "keu help korche na",
+    "intent": "customer_support"
+  },
+  {
+    "text": "bar bar call korchi but solution nai",
+    "intent": "customer_support"
+  },
+  {
+    "text": "complaint korbo BTRC te",
+    "intent": "customer_support"
+  },
+  {
+    "text": "BTRC complaint process GP er against e",
+    "intent": "customer_support"
+  },
+  {
+    "text": "regulatory complaint",
+    "intent": "customer_support"
+  },
+  {
+    "text": "GP er higher authority te complain",
+    "intent": "customer_support"
+  },
+  {
+    "text": "escalate korbo complaint ta",
+    "intent": "customer_support"
+  },
+  {
+    "text": "complaint escalation process ki?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "manager er sathe kotha bolbo",
+    "intent": "customer_support"
+  },
+  {
+    "text": "supervisor ke dhoren",
+    "intent": "customer_support"
+  },
+  {
+    "text": "complaint er update ki?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "complaint number diye status check",
+    "intent": "customer_support"
+  },
+  {
+    "text": "complaint resolve hoy nai",
+    "intent": "customer_support"
+  },
+  {
+    "text": "complaint er follow up korbo",
+    "intent": "customer_support"
+  },
+  {
+    "text": "kitokkhon wait korte hobe resolution er jonne?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "complaint resolve korte koto din lage?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "GP center kothay ache?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "nearest service center",
+    "intent": "customer_support"
+  },
+  {
+    "text": "amar kache GP shop ache?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "GP point location",
+    "intent": "customer_support"
+  },
+  {
+    "text": "Dhaka te GP center kothay?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "Chittagong GP service center address",
+    "intent": "customer_support"
+  },
+  {
+    "text": "Sylhet e GP center ache?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "Rajshahi GP point",
+    "intent": "customer_support"
+  },
+  {
+    "text": "GP center er time ki?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "GP shop kokhon khole?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "GP center Saturday te khola thake?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "holiday te GP center khola?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "GP email address ki?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "email kore complaint korbo",
+    "intent": "customer_support"
+  },
+  {
+    "text": "GP official email",
+    "intent": "customer_support"
+  },
+  {
+    "text": "GP er website ki?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "GP website theke help nibo",
+    "intent": "customer_support"
+  },
+  {
+    "text": "online support ache?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "chat support ache GP er?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "live chat kothay pabo?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "chatbot er sathe kotha bolbo",
+    "intent": "customer_support"
+  },
+  {
+    "text": "AI support ache GP er?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "Facebook e GP ke message korbo",
+    "intent": "customer_support"
+  },
+  {
+    "text": "GP Facebook page",
+    "intent": "customer_support"
+  },
+  {
+    "text": "GP Twitter handle ki?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "social media te GP ke contact korbo",
+    "intent": "customer_support"
+  },
+  {
+    "text": "GP Instagram page",
+    "intent": "customer_support"
+  },
+  {
+    "text": "GP LinkedIn page",
+    "intent": "customer_support"
+  },
+  {
+    "text": "GP WhatsApp support ache?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "WhatsApp e contact korbo GP",
+    "intent": "customer_support"
+  },
+  {
+    "text": "GP Messenger bot ache?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "feedback dibo GP ke",
+    "intent": "customer_support"
+  },
+  {
+    "text": "suggestion dibo GP ke",
+    "intent": "customer_support"
+  },
+  {
+    "text": "appreciation janabo GP ke",
+    "intent": "customer_support"
+  },
+  {
+    "text": "good service feedback",
+    "intent": "customer_support"
+  },
+  {
+    "text": "GP er service valo chilo",
+    "intent": "customer_support"
+  },
+  {
+    "text": "cstmer care",
+    "intent": "customer_support"
+  },
+  {
+    "text": "custmr support",
+    "intent": "customer_support"
+  },
+  {
+    "text": "helplin numbr",
+    "intent": "customer_support"
+  },
+  {
+    "text": "kstomer care er number",
+    "intent": "customer_support"
+  },
+  {
+    "text": "hlpline",
+    "intent": "customer_support"
+  },
+  {
+    "text": "gp customar car",
+    "intent": "customer_support"
+  },
+  {
+    "text": "gp center koi?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "gp shop kothay ase?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "complaint kori kemne?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "complain korbo",
+    "intent": "customer_support"
+  },
+  {
+    "text": "bhai help lage GP niye",
+    "intent": "customer_support"
+  },
+  {
+    "text": "vai GP er sathe kotha bolbo",
+    "intent": "customer_support"
+  },
+  {
+    "text": "GP ke call korbo",
+    "intent": "customer_support"
+  },
+  {
+    "text": "GP er phone number ki?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "GP head office number",
+    "intent": "customer_support"
+  },
+  {
+    "text": "GP corporate office address",
+    "intent": "customer_support"
+  },
+  {
+    "text": "GP head office Dhaka",
+    "intent": "customer_support"
+  },
+  {
+    "text": "GP office Bashundhara",
+    "intent": "customer_support"
+  },
+  {
+    "text": "GP regional office",
+    "intent": "customer_support"
+  },
+  {
+    "text": "GP divisional office address",
+    "intent": "customer_support"
+  },
+  {
+    "text": "ki kore customer care pabo?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "customer care e reach korbo ki kore?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "IVR menu te lost hoy jai",
+    "intent": "customer_support"
+  },
+  {
+    "text": "human agent er sathe kotha bolbo",
+    "intent": "customer_support"
+  },
+  {
+    "text": "real person er sathe connect koren",
+    "intent": "customer_support"
+  },
+  {
+    "text": "robot na, manush chai",
+    "intent": "customer_support"
+  },
+  {
+    "text": "automated system na, agent chai",
+    "intent": "customer_support"
+  },
+  {
+    "text": "callback request korbo",
+    "intent": "customer_support"
+  },
+  {
+    "text": "GP theke call back korben?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "priority support ache?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "VIP customer care",
+    "intent": "customer_support"
+  },
+  {
+    "text": "platinum customer support",
+    "intent": "customer_support"
+  },
+  {
+    "text": "GP star user support",
+    "intent": "customer_support"
+  },
+  {
+    "text": "premium helpline",
+    "intent": "customer_support"
+  },
+  {
+    "text": "dedicated support line",
+    "intent": "customer_support"
+  },
+  {
+    "text": "complaint acknowledgment pabo ki?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "complaint reference number ki?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "complaint tracking number den",
+    "intent": "customer_support"
+  },
+  {
+    "text": "ticket number ki amar complaint er?",
+    "intent": "customer_support"
+  },
+  {
+    "text": "ki offer cholche ekhon?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "today er offer ki?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "ajker special offer",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "ekhonkar offer dekhao",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "new offer ki ache?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "notun offer dekhbo",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "latest GP offer",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "recent offer ki?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "trending offer GP te",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "hot deal GP",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "flash sale offer ache?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "limited time offer",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "expiring soon offer",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "offer expire korar age kinbo",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "exclusive offer amar jonne",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "personalized offer ki?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "amar jonne special ki ache?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "my offers dekhbo",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "tailored offer dekhao",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "customized package ache?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "combo pack dekhao",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "internet + minute + SMS combo",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "all in one pack",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "bundle offer ki ki ache?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "mixed pack ache?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "super combo pack",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "mega combo offer",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "mini combo pack",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "daily combo offer",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "3 din er combo pack",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "7 din er combo offer",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "15 din er bundle pack",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "monthly combo package",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "30 din er bundle offer",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "combo pack er dam koto?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "best combo pack ki?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "value combo pack chai",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "sasta combo offer",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "cheap bundle pack",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "budget combo ache?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "recharge bonus offer ki?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "recharge korle ki pabo?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "recharge offer dekhao",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "100 taka recharge offer",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "200 taka recharge bonus",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "500 taka recharge offer",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "recharge e cashback pabo?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "cashback offer details",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "bonus offer ki?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "free data offer ache?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "free minute offer",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "free SMS offer",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "free night data",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "midnight offer",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "happy hour offer",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "weekend offer GP",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "Friday offer ache?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "Eid offer GP",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "Ramadan special offer",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "new year offer",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "Valentine offer GP",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "special day offer",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "festival offer",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "seasonal offer ki?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "student offer ki ki ache?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "youth offer GP",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "corporate offer",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "business pack offer",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "enterprise offer GP",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "family offer ache?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "group offer pack",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "couple pack offer",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "senior citizen offer",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "offer activate korar code",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "ki dial korle offer on hobe?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "offer activate korbo ki kore?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "offer USSD code ki?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "offer kinbo ki kore?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "offer purchase process",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "offer er validity koto?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "offer kotodin thakbe?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "offer expire date ki?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "offer auto renew hoy?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "offer cancel korbo",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "offer deactivate korbo ki kore?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "offer bondho korbo",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "GP star offer ki?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "star offer dial code",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "MyGP te offer dekhbo",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "app e ki offer ache?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "app exclusive offer ki?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "online only offer",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "website offer ache?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "GP website offer list",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "ofr ki ase?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "offer ache naki?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "ki ki offr cholche",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "offar dekhao",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "bst offer ki?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "valo offer bolen",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "ssta offer chai",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "ekta valo deal den",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "bhai ki offer nibo?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "vai best deal ki ekhon?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "ami ki offer nite pari?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "offer eligible ki ami?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "keno offer paicchi na?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "offer asche na amar number e",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "offer show hocche na",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "amar number e offer nai keno?",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "specific offer ta chai",
+    "intent": "offer_promotion"
+  },
+  {
+    "text": "MNP ki jinish?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "number portability mane ki?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "porting process ki?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "ki kore number port korbo?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "port in korbo GP te",
+    "intent": "number_portability"
+  },
+  {
+    "text": "port out korbo GP theke",
+    "intent": "number_portability"
+  },
+  {
+    "text": "GP te ashte chai amar number niye",
+    "intent": "number_portability"
+  },
+  {
+    "text": "Robi theke GP te jabo",
+    "intent": "number_portability"
+  },
+  {
+    "text": "Banglalink theke GP te switch",
+    "intent": "number_portability"
+  },
+  {
+    "text": "Airtel theke GP te ashbo",
+    "intent": "number_portability"
+  },
+  {
+    "text": "Teletalk theke GP te port",
+    "intent": "number_portability"
+  },
+  {
+    "text": "other operator theke GP",
+    "intent": "number_portability"
+  },
+  {
+    "text": "GP theke Robi te jabo",
+    "intent": "number_portability"
+  },
+  {
+    "text": "GP theke Banglalink e switch korbo",
+    "intent": "number_portability"
+  },
+  {
+    "text": "GP theke Teletalk e port korbo",
+    "intent": "number_portability"
+  },
+  {
+    "text": "GP te port in er shubidhaa ki?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "GP te asle ki pabo?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "port in offer ki?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "MNP welcome offer",
+    "intent": "number_portability"
+  },
+  {
+    "text": "porting bonus ki?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "port in korle free ki pabo?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "GP te port in er process step by step",
+    "intent": "number_portability"
+  },
+  {
+    "text": "MNP application korbo",
+    "intent": "number_portability"
+  },
+  {
+    "text": "porting request submit korbo",
+    "intent": "number_portability"
+  },
+  {
+    "text": "MNP form kothay pabo?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "porting er jonne ki ki document lagbe?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "NID lagbe porting e?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "MNP er jonne ID proof",
+    "intent": "number_portability"
+  },
+  {
+    "text": "biometric lagbe MNP te?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "porting er jonne GP center jete hobe?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "online MNP request hoy?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "MNP app theke hoy?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "MyGP theke port request hoy?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "porting koto din lage?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "port hote koto somoy?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "MNP processing time koto?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "same day port hoy?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "instant porting hoy?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "port er por number change hobe?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "same number thakbe porting er por?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "number ekdom same thakbe?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "porting charge koto?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "MNP fee koto taka?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "port korte koto taka lage?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "porting free te hoy?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "MNP er kono charge nai?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "free porting ache?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "porting er somoy service bondho thake?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "port er somoy phone use korte parbo?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "downtime koto porting er somoy?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "service interruption hoy porting e?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "porting er por previous balance ki hobe?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "old operator er balance porting e thakbe?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "port korle data pack thakbe?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "porting e purano offer ki hobe?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "MNP eligibility check korbo",
+    "intent": "number_portability"
+  },
+  {
+    "text": "ami ki port korte parbo?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "MNP eligible ki na check",
+    "intent": "number_portability"
+  },
+  {
+    "text": "porting er condition ki ki?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "MNP er requirement ki?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "contract thakle port kora jay?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "postpaid e port korbo",
+    "intent": "number_portability"
+  },
+  {
+    "text": "prepaid e port korbo GP te",
+    "intent": "number_portability"
+  },
+  {
+    "text": "postpaid number porting",
+    "intent": "number_portability"
+  },
+  {
+    "text": "corporate number port hoy?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "business number MNP hoy?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "MNP reject hoye geche keno?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "porting request decline hoye geche",
+    "intent": "number_portability"
+  },
+  {
+    "text": "port failed keno?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "MNP rejection reason ki?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "porting retry korbo",
+    "intent": "number_portability"
+  },
+  {
+    "text": "rejected MNP abar apply korbo",
+    "intent": "number_portability"
+  },
+  {
+    "text": "porting cancel korbo",
+    "intent": "number_portability"
+  },
+  {
+    "text": "MNP request cancel korte parbo?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "porting er por mone change korle?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "port back korbo purono operator e",
+    "intent": "number_portability"
+  },
+  {
+    "text": "GP theke port out korle ki hobe?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "port out er disadvantage ki?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "port out na kore GP te thakbo",
+    "intent": "number_portability"
+  },
+  {
+    "text": "MNP niye help chai",
+    "intent": "number_portability"
+  },
+  {
+    "text": "mnp korbo",
+    "intent": "number_portability"
+  },
+  {
+    "text": "number port",
+    "intent": "number_portability"
+  },
+  {
+    "text": "port korte chai",
+    "intent": "number_portability"
+  },
+  {
+    "text": "porting korbo ki kore?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "number niye jabo gp te",
+    "intent": "number_portability"
+  },
+  {
+    "text": "gp te switch",
+    "intent": "number_portability"
+  },
+  {
+    "text": "operator change korbo",
+    "intent": "number_portability"
+  },
+  {
+    "text": "operator poriborton",
+    "intent": "number_portability"
+  },
+  {
+    "text": "network switch korbo",
+    "intent": "number_portability"
+  },
+  {
+    "text": "sim change but number same",
+    "intent": "number_portability"
+  },
+  {
+    "text": "number rakhbo operator change korbo",
+    "intent": "number_portability"
+  },
+  {
+    "text": "vai MNP process ta bolen",
+    "intent": "number_portability"
+  },
+  {
+    "text": "bro porting korte help koren",
+    "intent": "number_portability"
+  },
+  {
+    "text": "porting niye confused",
+    "intent": "number_portability"
+  },
+  {
+    "text": "MNP bujhi na, explain koren",
+    "intent": "number_portability"
+  },
+  {
+    "text": "number port korar A to Z",
+    "intent": "number_portability"
+  },
+  {
+    "text": "complete MNP guide",
+    "intent": "number_portability"
+  },
+  {
+    "text": "porting FAQ",
+    "intent": "number_portability"
+  },
+  {
+    "text": "MNP related proshno",
+    "intent": "number_portability"
+  },
+  {
+    "text": "porting query ache",
+    "intent": "number_portability"
+  },
+  {
+    "text": "MNP helpline number ki?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "porting support number",
+    "intent": "number_portability"
+  },
+  {
+    "text": "MNP customer care",
+    "intent": "number_portability"
+  },
+  {
+    "text": "porting complaint korbo",
+    "intent": "number_portability"
+  },
+  {
+    "text": "MNP er tracking korbo",
+    "intent": "number_portability"
+  },
+  {
+    "text": "porting status check korbo",
+    "intent": "number_portability"
+  },
+  {
+    "text": "MNP request er update ki?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "kotokhon e port hobe?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "porting pending ache keno?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "MNP delay hoye jacche",
+    "intent": "number_portability"
+  },
+  {
+    "text": "porting expected date ki?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "porting complete hoye geche ki?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "MNP successful hoiche ki?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "porting confirm hoiche?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "port howar por ki korbo?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "MNP er por SIM collect korbo kothay?",
+    "intent": "number_portability"
+  },
+  {
+    "text": "ported SIM activate korbo ki kore?",
+    "intent": "number_portability"
+  }
+]

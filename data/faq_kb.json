@@ -1,0 +1,257 @@
+[
+  {
+    "intent": "balance_check",
+    "question": "How do I check my prepaid balance?",
+    "answer": "Dial *566# to check your main account balance. You can also check your balance through the MyGP app under 'Account Overview'. For postpaid customers, dial *566# or check your bill summary on MyGP."
+  },
+  {
+    "intent": "balance_check",
+    "question": "How to check internet data balance?",
+    "answer": "Dial *121*1*2# to check your remaining internet data balance. You can also open the MyGP app and tap on 'Internet Balance' to see your active data packs and remaining volume."
+  },
+  {
+    "intent": "balance_check",
+    "question": "How to check bonus balance?",
+    "answer": "Dial *121*1*5# to check your bonus balance including any bonus talk-time, SMS, or data. Bonus balances are usually valid for specific usage like on-net calls or specific time slots."
+  },
+  {
+    "intent": "balance_check",
+    "question": "How to check minute balance?",
+    "answer": "Dial *121*1*3# to check your remaining voice minute balance. This shows all active minute packs including on-net and off-net minutes."
+  },
+  {
+    "intent": "balance_check",
+    "question": "How to check SMS balance?",
+    "answer": "Dial *121*1*4# to check your remaining SMS balance. You can also view your SMS pack details in the MyGP app under 'My Packs' section."
+  },
+  {
+    "intent": "recharge",
+    "question": "How do I recharge my Grameenphone number?",
+    "answer": "You can recharge your GP number through: 1) MyGP app - go to 'Recharge' section, 2) Online at grameenphone.com/recharge, 3) Flexiload from any mobile banking (bKash, Nagad, Rocket), 4) Physical scratch cards available at GP retail shops and authorized dealers."
+  },
+  {
+    "intent": "recharge",
+    "question": "How to recharge using bKash?",
+    "answer": "Open bKash app or dial *247#, select 'Recharge/Pay Bill', choose 'Mobile Recharge', enter the GP number you want to recharge, enter the amount, and confirm with your bKash PIN."
+  },
+  {
+    "intent": "recharge",
+    "question": "What is the minimum recharge amount?",
+    "answer": "The minimum recharge amount for Grameenphone prepaid is 10 Taka. You can recharge any amount starting from 10 Taka through flexiload, bKash, Nagad, or online recharge methods."
+  },
+  {
+    "intent": "recharge",
+    "question": "How to recharge using Nagad?",
+    "answer": "Open Nagad app or dial *167#, select 'Mobile Recharge', enter the GP number, enter the amount (minimum 10 Taka), and confirm with your Nagad PIN. The recharge will be applied instantly."
+  },
+  {
+    "intent": "recharge",
+    "question": "Can I transfer balance to another GP number?",
+    "answer": "Yes, you can transfer balance by dialing *247*recipient_number*amount#. The minimum transfer amount is 10 Taka and there is a small service charge. Both sender and receiver must be GP prepaid customers."
+  },
+  {
+    "intent": "data_package",
+    "question": "What internet packages are available on Grameenphone?",
+    "answer": "Grameenphone offers various internet packages: Daily (1GB-3GB from 19-49 Taka), Weekly (3GB-15GB from 99-249 Taka), Monthly (5GB-40GB from 199-699 Taka). Check the latest packages on MyGP app or dial *121*3# to see available offers."
+  },
+  {
+    "intent": "data_package",
+    "question": "How to activate a data package?",
+    "answer": "You can activate data packages through: 1) MyGP app - browse and buy from 'Internet' section, 2) Dial *121*3# and follow the menu, 3) SMS based activation as shown on grameenphone.com/internet. The pack will be activated immediately upon purchase."
+  },
+  {
+    "intent": "data_package",
+    "question": "What are the 4G data packages?",
+    "answer": "Grameenphone offers special 4G data packs with higher speeds. You need a 4G enabled SIM and handset. Popular 4G packs include: 1GB at 29 Taka (3 days), 4GB at 129 Taka (7 days), 15GB at 349 Taka (30 days). Dial *121*3# or check MyGP for current 4G offers."
+  },
+  {
+    "intent": "data_package",
+    "question": "How to stop auto-renewal of data package?",
+    "answer": "To stop auto-renewal of your internet pack, go to MyGP app > My Packs > select the pack > turn off auto-renewal. You can also dial *121*3# and follow the options to manage your active packs and disable auto-renewal."
+  },
+  {
+    "intent": "data_package",
+    "question": "What is the night data pack?",
+    "answer": "Grameenphone offers special night internet packs valid from 12 AM to 8 AM. These are cheaper than regular packs, e.g., 1GB night pack at 9 Taka, 2GB night pack at 19 Taka. Activate through MyGP app or dial *121*3# and look for night pack offers."
+  },
+  {
+    "intent": "data_package",
+    "question": "Is there any unlimited data package?",
+    "answer": "Grameenphone does not offer truly unlimited data, but they have large volume packs like 40GB monthly for heavy users. There are also FUP (Fair Usage Policy) based packs where speed reduces after a certain limit. Check MyGP app for the latest high-volume packs."
+  },
+  {
+    "intent": "call_rate",
+    "question": "What is the call rate for Grameenphone?",
+    "answer": "Grameenphone call rates vary by package. Standard prepaid rate is around 1.5 Taka/min for GP-to-GP and 2 Taka/min for GP-to-Other. You can get cheaper rates by activating minute bundles. Dial *121*1# or check MyGP for your current tariff plan and rates."
+  },
+  {
+    "intent": "call_rate",
+    "question": "How to get cheaper call rates?",
+    "answer": "To get cheaper call rates: 1) Activate minute bundles (e.g., 100 min at 49 Taka), 2) Use special call rate offers available on MyGP, 3) Consider Nishchinto or other value packs that include minutes. Dial *121*4# to see available minute packs."
+  },
+  {
+    "intent": "call_rate",
+    "question": "What is the FnF call rate?",
+    "answer": "FnF (Friends and Family) numbers get special discounted call rates. You can set up to 5 FnF numbers. The FnF rate is typically 0.5-1 Taka/min depending on your package. To set FnF, dial *121*2# or manage through MyGP app."
+  },
+  {
+    "intent": "call_rate",
+    "question": "What are the off-net call rates?",
+    "answer": "Off-net (GP to other operators like Robi, Banglalink, Teletalk) call rates are typically 1.5-2 Taka/min depending on your package. You can activate off-net minute bundles for cheaper rates. Check your current off-net rate by dialing *121*1#."
+  },
+  {
+    "intent": "sms_package",
+    "question": "What SMS packages are available?",
+    "answer": "Grameenphone offers various SMS packs: 100 SMS at 10 Taka (3 days), 300 SMS at 25 Taka (7 days), 1000 SMS at 50 Taka (30 days). SMS packs cover both GP-to-GP and GP-to-Other. Dial *121*5# or check MyGP for current SMS offers."
+  },
+  {
+    "intent": "sms_package",
+    "question": "How to activate SMS pack?",
+    "answer": "Activate SMS packs through: 1) MyGP app - go to 'SMS' section, 2) Dial *121*5# and follow the menu, 3) USSD code specific to each pack (shown on GP website). The pack activates immediately after purchase."
+  },
+  {
+    "intent": "sms_package",
+    "question": "What is the per SMS rate without a pack?",
+    "answer": "Without an active SMS pack, the standard SMS rate is 2 Taka per SMS for both on-net and off-net messages. It is much cheaper to buy an SMS bundle. Dial *121*5# to view and buy SMS packs."
+  },
+  {
+    "intent": "network_issue",
+    "question": "I am facing network problems. What should I do?",
+    "answer": "If you are experiencing network issues: 1) Restart your phone, 2) Check if your SIM is properly inserted, 3) Make sure you are not in airplane mode, 4) Try toggling between 4G/3G/2G in network settings. If the problem persists, call GP helpline at 121 or report via MyGP app under 'Support'."
+  },
+  {
+    "intent": "network_issue",
+    "question": "Why is my internet speed slow?",
+    "answer": "Slow internet can be caused by: 1) Network congestion in your area, 2) Your data pack may have reached FUP limit (speed reduced), 3) Weak signal strength, 4) Device settings issue. Try switching to 4G mode, restart your phone, or move to an area with better signal. If the issue continues, report it at 121."
+  },
+  {
+    "intent": "network_issue",
+    "question": "Is there a network outage in my area?",
+    "answer": "To check for network outages in your area, you can: 1) Call GP helpline at 121, 2) Check GP's official Facebook page for outage announcements, 3) Report your issue via MyGP app and customer service will inform you about any known outages."
+  },
+  {
+    "intent": "network_issue",
+    "question": "How to improve GP signal strength?",
+    "answer": "To improve signal: 1) Move to an open area or near a window, 2) Make sure your phone's network mode is set correctly (4G/LTE preferred), 3) Restart your phone, 4) Update your phone's software, 5) Remove any thick phone case that might block signal. If signal is consistently weak in your area, report it to 121."
+  },
+  {
+    "intent": "sim_replace",
+    "question": "How to replace a lost or damaged SIM?",
+    "answer": "Visit any Grameenphone Center or authorized retailer with your NID (National ID Card). You will need to verify your identity with biometrics. SIM replacement costs around 200 Taka. Your existing number and balance will be transferred to the new SIM. The process takes about 15-30 minutes."
+  },
+  {
+    "intent": "sim_replace",
+    "question": "How to upgrade to 4G SIM?",
+    "answer": "To upgrade to a 4G SIM: Visit any Grameenphone Center with your NID. The 4G SIM swap is free of charge. You will keep your existing number and balance. Make sure your phone supports 4G. You can check 4G compatibility at grameenphone.com or by dialing *#06# to get your IMEI and checking online."
+  },
+  {
+    "intent": "sim_replace",
+    "question": "How to get an eSIM from Grameenphone?",
+    "answer": "Grameenphone offers eSIM for compatible devices. Visit a Grameenphone Center with your NID and eSIM-compatible phone. You can get a new eSIM or convert your existing SIM to eSIM. The process involves scanning a QR code to download the eSIM profile to your device."
+  },
+  {
+    "intent": "myGP_app",
+    "question": "How to download and set up MyGP app?",
+    "answer": "Download MyGP app from Google Play Store (Android) or Apple App Store (iOS). Open the app, enter your GP number, and verify with an OTP sent to your number. Once verified, you can manage your account, buy packs, check balance, and access exclusive offers."
+  },
+  {
+    "intent": "myGP_app",
+    "question": "What can I do with MyGP app?",
+    "answer": "MyGP app lets you: 1) Check balance (main, data, minutes, SMS), 2) Buy internet, voice, and SMS packs, 3) Recharge your number, 4) View and pay postpaid bills, 5) Access exclusive app-only offers, 6) Manage FnF numbers, 7) Report network issues, 8) Contact customer support."
+  },
+  {
+    "intent": "myGP_app",
+    "question": "MyGP app is not working. What to do?",
+    "answer": "If MyGP app is not working: 1) Check your internet connection, 2) Update the app to latest version, 3) Clear app cache (Settings > Apps > MyGP > Clear Cache), 4) Uninstall and reinstall the app, 5) Make sure you have a working GP SIM in your phone. If the issue persists, call 121 for support."
+  },
+  {
+    "intent": "bill_payment",
+    "question": "How to pay my postpaid bill?",
+    "answer": "Pay your GP postpaid bill through: 1) MyGP app - tap 'Pay Bill', 2) Online at grameenphone.com, 3) bKash/Nagad/Rocket mobile banking, 4) Bank payment (most banks support GP bill payment), 5) Visit any Grameenphone Center. Bills are generated on the 1st of each month with payment due by the 15th."
+  },
+  {
+    "intent": "bill_payment",
+    "question": "How to check my postpaid bill amount?",
+    "answer": "Check your postpaid bill by: 1) Dialing *566#, 2) Opening MyGP app > 'Bill' section, 3) Checking your email (if e-bill is activated). You can view current unbilled usage, previous bills, and payment history in the MyGP app."
+  },
+  {
+    "intent": "bill_payment",
+    "question": "What happens if I don't pay my postpaid bill?",
+    "answer": "If your postpaid bill is not paid by the due date: 1) After 15 days - outgoing calls may be barred, 2) After 30 days - incoming calls may also be barred, 3) After 60 days - your connection may be permanently disconnected. A late payment fee may also be applied. Pay your bill promptly to avoid service disruption."
+  },
+  {
+    "intent": "roaming",
+    "question": "How to activate international roaming?",
+    "answer": "To activate international roaming: 1) Call 121 and request roaming activation, 2) Visit a Grameenphone Center with your NID, 3) For prepaid, you need a minimum balance of 500 Taka. Roaming activation may take up to 24 hours. Make sure to activate before traveling."
+  },
+  {
+    "intent": "roaming",
+    "question": "What are the roaming charges?",
+    "answer": "Roaming charges vary by country. Typical charges: Incoming calls 3-8 Taka/min, Outgoing calls 5-15 Taka/min, SMS 5-10 Taka per SMS, Data 1-5 Taka/MB. Grameenphone offers roaming bundles for popular destinations. Check exact rates at grameenphone.com/roaming or in the MyGP app before traveling."
+  },
+  {
+    "intent": "roaming",
+    "question": "How to use data while roaming?",
+    "answer": "To use data while roaming: 1) Make sure roaming is activated on your account, 2) Enable data roaming on your phone (Settings > Mobile Data > Data Roaming), 3) Buy a roaming data pack from MyGP for cheaper rates. Without a pack, data will be charged at standard roaming rates which can be expensive."
+  },
+  {
+    "intent": "account_info",
+    "question": "How to check my own GP number?",
+    "answer": "Dial *2# to check your own Grameenphone number. It will be displayed on your screen. You can also find your number in the MyGP app under 'Account' or in your phone's SIM settings."
+  },
+  {
+    "intent": "account_info",
+    "question": "How to check my account details?",
+    "answer": "Check your account details through: 1) MyGP app - shows your number, package, balance, active packs, 2) Dial *121# for a menu of account options, 3) Call 121 and speak to customer care. You can view your tariff plan, active services, and usage history in the app."
+  },
+  {
+    "intent": "account_info",
+    "question": "How to change my GP package/tariff plan?",
+    "answer": "To change your tariff plan: 1) Open MyGP app > 'More' > 'Change Package', 2) Dial *121# and follow the package migration menu, 3) Call 121 for assistance. Note that package migration may involve a fee and some conditions. Your balance will be carried over."
+  },
+  {
+    "intent": "customer_support",
+    "question": "How to contact Grameenphone customer service?",
+    "answer": "Contact GP customer support through: 1) Call 121 from your GP number (free of charge), 2) Call 01711-282828 from any number, 3) Email: info@grameenphone.com, 4) Live chat on grameenphone.com, 5) Visit any Grameenphone Center, 6) Message on GP's Facebook page. Helpline 121 is available 24/7."
+  },
+  {
+    "intent": "customer_support",
+    "question": "How to file a complaint?",
+    "answer": "File a complaint by: 1) Calling 121 and selecting the complaint option, 2) Through MyGP app > 'Support' > 'File Complaint', 3) Visiting a Grameenphone Center. You will receive a complaint reference number. Complaints are typically resolved within 24-72 hours. You can track your complaint status through 121 or MyGP."
+  },
+  {
+    "intent": "customer_support",
+    "question": "Where is the nearest Grameenphone Center?",
+    "answer": "Find the nearest Grameenphone Center using: 1) MyGP app > 'GP Centers' with map view, 2) Visit grameenphone.com/store-locator, 3) Call 121 and ask for nearby center locations. Grameenphone Centers are available in all major cities and towns across Bangladesh."
+  },
+  {
+    "intent": "offer_promotion",
+    "question": "What are the current offers on Grameenphone?",
+    "answer": "Check current offers through: 1) MyGP app > 'Offers' tab shows all personalized and general offers, 2) Dial *121*1*6# to see available offers, 3) Visit grameenphone.com/offers. GP regularly provides special offers on data, voice, and combo packs. App-exclusive offers are often available only on MyGP."
+  },
+  {
+    "intent": "offer_promotion",
+    "question": "How to activate a special offer?",
+    "answer": "Activate offers through: 1) MyGP app - tap on the offer and press 'Buy', 2) Dial the USSD code mentioned in the offer details, 3) Some offers are auto-applied based on your usage pattern. Check MyGP app regularly for new personalized offers."
+  },
+  {
+    "intent": "offer_promotion",
+    "question": "What are the Grameenphone combo packs?",
+    "answer": "Grameenphone combo packs bundle data, voice minutes, and SMS together at a discounted price. Popular combos include: Daily combo (500MB + 30min + 20SMS at 29 Taka), Weekly combo (2GB + 100min + 100SMS at 119 Taka), Monthly combo (10GB + 500min + 200SMS at 399 Taka). Check MyGP for all available combos."
+  },
+  {
+    "intent": "number_portability",
+    "question": "How to switch to Grameenphone from another operator?",
+    "answer": "To port your number to Grameenphone (MNP): 1) Make sure your current number is at least 60 days old, 2) Clear any outstanding bills, 3) Visit a Grameenphone Center with your NID, 4) Fill out the MNP form and get a new GP SIM, 5) The porting process takes 24-48 hours. You keep your existing number."
+  },
+  {
+    "intent": "number_portability",
+    "question": "How to port my GP number to another operator?",
+    "answer": "To port out from Grameenphone: 1) Ensure your number is active and at least 60 days old, 2) Clear any outstanding dues, 3) Visit the new operator's center with your NID, 4) They will process the MNP request. The switch takes 24-48 hours. Your GP balance will not be transferred."
+  },
+  {
+    "intent": "number_portability",
+    "question": "What is MNP and how does it work?",
+    "answer": "MNP (Mobile Number Portability) allows you to switch your mobile operator while keeping your existing number. The process requires visiting the new operator's center with your NID. It takes 24-48 hours to complete. You need to have your number for at least 60 days and clear any dues. There is no charge for MNP."
+  }
+]
