@@ -75,7 +75,7 @@ Best matching FAQ answer
 ├── train.py            # Training script
 ├── retriever.py        # BM25-based FAQ retrieval
 ├── data/
-│   ├── intent_data.json    # ~7600 labeled training examples
+│   ├── intent_data.json    # ~1920 labeled training examples
 │   ├── faq_kb.json         # ~250 FAQ question-answer pairs
 │   └── intents.json        # Intent metadata
 ├── models/
