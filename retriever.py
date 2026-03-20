@@ -14,7 +14,17 @@ def load_faq_kb(path="data/faq_kb.json"):
 
 
 def search_faq(query, knowledge_base, intent=None):
-    """Search FAQ knowledge base using BM25. Optionally filter by intent."""
+    """
+        Search FAQ knowledge base using BM25. Optionally filter by intent.
+
+        Args:
+            query: User query string
+            knowledge_base: List of FAQs
+            intent: Optional intent filter
+
+        Returns:
+            Best matching answer string
+    """
     if intent:
         filtered = [faq for faq in knowledge_base if faq["intent"] == intent]
         if not filtered:
@@ -30,7 +40,7 @@ def search_faq(query, knowledge_base, intent=None):
     return filtered[best_idx]["answer"]
 
 
-# quick test
+# test
 if __name__ == "__main__":
     kb = load_faq_kb()
     queries = [

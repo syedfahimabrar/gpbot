@@ -12,6 +12,16 @@ from retriever import load_faq_kb, search_faq
 
 @st.cache_resource
 def load_model():
+    """
+        Load trained model and configs.
+
+        Returns:
+            model: Trained model
+            word2idx: Vocabulary mapping
+            idx2label: Label mapping
+            config: Model config
+            device: Torch device
+    """
     with open("models/config.json") as f:
         config = json.load(f)
     with open("models/word2idx.json") as f:
@@ -31,7 +41,16 @@ knowledge_base = load_faq_kb()
 
 
 def predict_intent(text):
-    """Predict intent label and confidence from user text."""
+    """
+        Predict intent label and confidence from user text.
+
+        Args:
+            text: User input string
+
+        Returns:
+            intent: Predicted label
+            confidence: Probability score
+    """
     ids = encode_text(text, word2idx, config["max_len"])
     x = torch.tensor([ids], dtype=torch.long).to(device)
     with torch.no_grad():

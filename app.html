@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Python: module app</title>
+</head><body>
+
+<table class="heading">
+<tr class="heading-text decor">
+<td class="title">&nbsp;<br><strong class="title">app</strong></td>
+<td class="extra"><a href=".">index</a><br><a href="file:/Users/fahim/Desktop/lab4/app.py">/Users/fahim/Desktop/lab4/app.py</a></td></tr></table>
+    <p><span class="code">Grameenphone&nbsp;FAQ&nbsp;Chatbot&nbsp;-&nbsp;Streamlit&nbsp;interface.<br>
+Run:&nbsp;uv&nbsp;run&nbsp;streamlit&nbsp;run&nbsp;app.py&nbsp;&nbsp;(after&nbsp;training&nbsp;with&nbsp;train.py)</span></p>
+<p>
+<table class="section">
+<tr class="decor pkg-content-decor heading-text">
+<td class="section-title" colspan=3>&nbsp;<br><strong class="bigsection">Modules</strong></td></tr>
+    
+<tr><td class="decor pkg-content-decor"><span class="code">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></td><td>&nbsp;</td>
+<td class="singlecolumn"><table><tr><td class="multicolumn"><a href="json.html">json</a><br>
+</td><td class="multicolumn"><a href="streamlit.html">streamlit</a><br>
+</td><td class="multicolumn"><a href="torch.html">torch</a><br>
+</td><td class="multicolumn"></td></tr></table></td></tr></table><p>
+<table class="section">
+<tr class="decor functions-decor heading-text">
+<td class="section-title" colspan=3>&nbsp;<br><strong class="bigsection">Functions</strong></td></tr>
+    
+<tr><td class="decor functions-decor"><span class="code">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></td><td>&nbsp;</td>
+<td class="singlecolumn"><dl><dt><a name="-load_model"><strong>load_model</strong></a>()</dt><dd><span class="code">Load&nbsp;trained&nbsp;model&nbsp;and&nbsp;configs.<br>
+&nbsp;<br>
+Returns:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;model:&nbsp;Trained&nbsp;model<br>
+&nbsp;&nbsp;&nbsp;&nbsp;word2idx:&nbsp;Vocabulary&nbsp;mapping<br>
+&nbsp;&nbsp;&nbsp;&nbsp;idx2label:&nbsp;Label&nbsp;mapping<br>
+&nbsp;&nbsp;&nbsp;&nbsp;config:&nbsp;Model&nbsp;config<br>
+&nbsp;&nbsp;&nbsp;&nbsp;device:&nbsp;Torch&nbsp;device</span></dd></dl>
+ <dl><dt><a name="-predict_intent"><strong>predict_intent</strong></a>(text)</dt><dd><span class="code">Predict&nbsp;intent&nbsp;label&nbsp;and&nbsp;confidence&nbsp;from&nbsp;user&nbsp;text.<br>
+&nbsp;<br>
+Args:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;text:&nbsp;User&nbsp;input&nbsp;string<br>
+&nbsp;<br>
+Returns:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;intent:&nbsp;Predicted&nbsp;label<br>
+&nbsp;&nbsp;&nbsp;&nbsp;confidence:&nbsp;Probability&nbsp;score</span></dd></dl>
+</td></tr></table><p>
+<table class="section">
+<tr class="decor data-decor heading-text">
+<td class="section-title" colspan=3>&nbsp;<br><strong class="bigsection">Data</strong></td></tr>
+    
+<tr><td class="decor data-decor"><span class="code">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></td><td>&nbsp;</td>
+<td class="singlecolumn"><strong>CONFIDENCE_THRESHOLD</strong> = 0.5<br>
+<strong>GREETING</strong> = 'Hello! Welcome to Grameenphone Customer Service....charge, data packages, SIM replacement, and more.'<br>
+<strong>LOW_CONFIDENCE_MSG</strong> = "Sorry, I couldn't understand your question. Coul...ase it? You can also call 121 for direct support."<br>
+<strong>config</strong> = {'embed_dim': 128, 'hidden_dim': 128, 'max_len': 32, 'num_classes': 14}<br>
+<strong>device</strong> = device(type='cpu')<br>
+<strong>idx2label</strong> = {'0': 'account_info', '1': 'balance_check', '10': 'recharge', '11': 'roaming', '12': 'sim_replace', '13': 'sms_package', '2': 'bill_payment', '3': 'call_rate', '4': 'customer_support', '5': 'data_package', ...}<br>
+<strong>knowledge_base</strong> = [{'answer': 'Dial *566# to check your main account balance. Y...s, dial *566# or check your bill summary on MyGP.', 'intent': 'balance_check', 'question': 'How do I check my prepaid balance?'}, {'answer': 'Dial *121*1*2# to check your remaining internet ... see your active data packs and remaining volume.', 'intent': 'balance_check', 'question': 'How to check internet data balance?'}, {'answer': 'Dial *121*1*5# to check your bonus balance inclu...c usage like on-net calls or specific time slots.', 'intent': 'balance_check', 'question': 'How to check bonus balance?'}, {'answer': 'Dial *121*1*3# to check your remaining voice min...inute packs including on-net and off-net minutes.', 'intent': 'balance_check', 'question': 'How to check minute balance?'}, {'answer': "Dial *121*1*4# to check your remaining SMS balan...details in the MyGP app under 'My Packs' section.", 'intent': 'balance_check', 'question': 'How to check SMS balance?'}, {'answer': 'You can recharge your GP number through: 1) MyGP...ilable at GP retail shops and authorized dealers.', 'intent': 'recharge', 'question': 'How do I recharge my Grameenphone number?'}, {'answer': "Open bKash app or dial *247#, select 'Recharge/P...nter the amount, and confirm with your bKash PIN.", 'intent': 'recharge', 'question': 'How to recharge using bKash?'}, {'answer': 'The minimum recharge amount for Grameenphone pre...xiload, bKash, Nagad, or online recharge methods.', 'intent': 'recharge', 'question': 'What is the minimum recharge amount?'}, {'answer': "Open Nagad app or dial *167#, select 'Mobile Rec...agad PIN. The recharge will be applied instantly.", 'intent': 'recharge', 'question': 'How to recharge using Nagad?'}, {'answer': 'Yes, you can transfer balance by dialing *247*re...sender and receiver must be GP prepaid customers.', 'intent': 'recharge', 'question': 'Can I transfer balance to another GP number?'}, {'answer': 'Grameenphone offers various internet packages: D...MyGP app or dial *121*3# to see available offers.', 'intent': 'data_package', 'question': 'What internet packages are available on Grameenphone?'}, {'answer': 'You can activate data packages through: 1) MyGP ...pack will be activated immediately upon purchase.', 'intent': 'data_package', 'question': 'How to activate a data package?'}, {'answer': 'Grameenphone offers special 4G data packs with h...Dial *121*3# or check MyGP for current 4G offers.', 'intent': 'data_package', 'question': 'What are the 4G data packages?'}, {'answer': 'To stop auto-renewal of your internet pack, go t...anage your active packs and disable auto-renewal.', 'intent': 'data_package', 'question': 'How to stop auto-renewal of data package?'}, {'answer': 'Grameenphone offers special night internet packs...p or dial *121*3# and look for night pack offers.', 'intent': 'data_package', 'question': 'What is the night data pack?'}, {'answer': 'Grameenphone does not offer truly unlimited data... Check MyGP app for the latest high-volume packs.', 'intent': 'data_package', 'question': 'Is there any unlimited data package?'}, {'answer': 'Grameenphone call rates vary by package. Standar...heck MyGP for your current tariff plan and rates.', 'intent': 'call_rate', 'question': 'What is the call rate for Grameenphone?'}, {'answer': 'To get cheaper call rates: 1) Activate minute bu...utes. Dial *121*4# to see available minute packs.', 'intent': 'call_rate', 'question': 'How to get cheaper call rates?'}, {'answer': 'FnF (Friends and Family) numbers get special dis...set FnF, dial *121*2# or manage through MyGP app.', 'intent': 'call_rate', 'question': 'What is the FnF call rate?'}, {'answer': 'Off-net (GP to other operators like Robi, Bangla...eck your current off-net rate by dialing *121*1#.', 'intent': 'call_rate', 'question': 'What are the off-net call rates?'}, ...]<br>
+<strong>model</strong> = IntentClassifier(
+  (embedding): Embedding(1051,...ar(in_features=256, out_features=14, bias=True)
+)<br>
+<strong>msg</strong> = {'content': 'Hello! Welcome to Grameenphone Customer Service....charge, data packages, SIM replacement, and more.', 'role': 'assistant'}<br>
+<strong>query</strong> = None<br>
+<strong>word2idx</strong> = {'1': 6, '10': 227, '100': 92, '1000': 818, '10gb': 449, '121': 660, '12am': 844, '15': 789, '1gb': 910, '2': 821, ...}</td></tr></table>
+</body></html>

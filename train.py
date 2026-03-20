@@ -1,6 +1,9 @@
 """
-Train the intent classifier on the intent dataset.
-Run: python train.py
+Train intent classification model.
+
+Loads data, builds vocab, splits dataset,
+trains and evaluates the model, and saves
+artifacts for inference.
 """
 
 import json
@@ -16,16 +19,37 @@ from model import IntentClassifier, build_vocab, encode_text
 # --- Dataset ---
 
 class IntentDataset(Dataset):
+    """Dataset for intent classification."""
     def __init__(self, data, word2idx, label2idx, max_len=32):
+        """
+            Initialize dataset.
+
+            Args:
+                data: List of text-intent samples
+                word2idx: Word to index mapping
+                label2idx: Intent to index mapping
+                max_len: Max token length
+        """
         self.data = data
         self.word2idx = word2idx
         self.label2idx = label2idx
         self.max_len = max_len
 
     def __len__(self):
+        """Return number of samples."""
         return len(self.data)
 
     def __getitem__(self, idx):
+        """
+            Get one sample.
+
+            Args:
+                idx: Sample index
+
+            Returns:
+                x: Encoded text tensor
+                y: Label tensor
+        """
         item = self.data[idx]
         x = torch.tensor(encode_text(item["text"], self.word2idx, self.max_len), dtype=torch.long)
         y = torch.tensor(self.label2idx[item["intent"]], dtype=torch.long)
@@ -35,6 +59,17 @@ class IntentDataset(Dataset):
 # --- Train/Test Split (stratified) ---
 
 def split_data(data, test_ratio=0.2):
+    """
+        Split data into train/test sets (stratified).
+
+        Args:
+            data: List of samples
+            test_ratio: Fraction for test set
+
+        Returns:
+            train: Training samples
+            test: Test samples
+    """
     random.seed(42)
     by_intent = {}
     for item in data:
